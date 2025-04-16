@@ -1,27 +1,10 @@
-import pandas as pd
+from functions import data_filtering, commune_data, region_data
 
-# Cargar el archivo original (ajustá la ruta si es necesario)
-df = pd.read_csv("data/data.csv", encoding='latin1', sep=';')
+# Generamos nuevo archivo data_filtering.csv
+colums = ['latitud', 'longitud', 'comuna', 'region', 'cantidad_toneladas']
+data_filtering("data/data.csv", colums)
 
-# Seleccionar solo las columnas que te interesan
-columnas_utiles = ['latitud', 'longitud', 'comuna', 'region', 'cantidad_toneladas']
-df_filtrado = df[columnas_utiles]
+# Generar nuevo archivo commune_data.csv
+commune_data("data/data_filtering.csv")
 
-# Guardar el nuevo archivo
-df_filtrado.to_csv("data/data_filtering.csv", index=False)
-
-# Cargar nuevo CSV creado
-df = pd.read_csv("data/data_filtering.csv", sep=",", quotechar='"')
-
-# Limpiar columna de toneladas
-df['cantidad_toneladas'] = df['cantidad_toneladas'].astype(str).str.replace(",", ".").astype(float)
-
-# Agrupar: sumar toneladas y mantener la primera lat/lon/región por comuna
-resultado = df.groupby('comuna').agg({
-    'latitud': 'first',
-    'longitud': 'first',
-    'region': 'first',
-    'cantidad_toneladas': 'sum'
-}).reset_index()
-
-resultado.to_csv("data/general data.csv", index=False)
+region_data("data/commune_data.csv")
