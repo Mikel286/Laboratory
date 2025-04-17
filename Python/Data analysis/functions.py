@@ -44,3 +44,12 @@ def region_data(data):
     }).reset_index()
 
     resultado.to_csv("data/region_data.csv", index=False)
+
+if __name__=="__main__":
+    # Cargar el archivo CSV
+    df = pd.read_csv('data/data_filtering.csv')
+
+    # Encontrar el índice de la fila con el valor máximo en 'cantidad_toneladas'
+    max_row = df[df['cantidad_toneladas'] == df['cantidad_toneladas'].max()]
+
+    print(max_row)
