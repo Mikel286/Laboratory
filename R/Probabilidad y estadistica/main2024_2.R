@@ -50,3 +50,44 @@ ds_pesot <- Abalon$pesot %>% sd()
 
 # Pregunta 2.4
 mean_pesot_coquimbo <- Abalon %>% filter(centro == "Coquimbo") %>% pull(pesot) %>% mean()
+
+# Pregunta 2.5
+mean_largo_10 <- Abalon %>% filter(largo > 10) %>% pull(largo) %>% mean()
+
+# Pregunta 2.6
+mean_alto_PC <- Abalon %>% filter(centro == " Puerto Montt" | centro == "Chiloé") %>% pull(alto) %>% mean()
+
+# Pregunta 2.7
+n_locos_12anillos <- Abalon %>% filter(anillos >= 12) %>% nrow()
+
+# Pregunta 2.8
+n_locos_anillos_Caldera <- Abalon %>% filter(anillos >= 12 & centro == "Caldera") %>% nrow()
+
+# Pregunta 2.9
+n_locos <- nrow(Abalon)
+n_locos_200_600 <- Abalon %>% filter(pesot >= 200 & pesot <= 600) %>% nrow()/400
+
+# Pregunta 2.10
+n_locos_Chiloe <- Abalon %>% filter(centro == "Chiloé") %>% nrow()/n_locos
+
+# Ejercicio 3
+
+# 🔴 🔴 Importamos el dataset BandaAncha.xlsx
+
+# Ejercicio 3.1
+mean_velocidad <- mean(BandaAncha$Velocidad)
+
+# Ejercicio 3.2
+n_ciudades <- BandaAncha %>% distinct(Ciudad) %>% nrow()
+
+# Ejercicio 3.3
+velocidad_CIquieque <- BandaAncha %>% filter(Operador == "C" & Ciudad == "Iquique") %>% pull(Velocidad)
+
+# Ejercicio 3.4
+mean_velocidad_Illapel <- BandaAncha %>% filter(Ciudad == "Illapel") %>% pull(Velocidad) %>% mean()
+
+# Ejercicio 3.6
+max_operador_Arauco <- BandaAncha %>% filter(Ciudad == "Arauco" & Velocidad == max(Velocidad[Ciudad == "Arauco"])) %>% pull(Operador)
+
+# Ejercicio 3.7
+ciudad_max_W <- BandaAncha %>% filter(Operador == "W" & Velocidad == max(Velocidad[Operador == "W"])) %>% pull(Ciudad)
