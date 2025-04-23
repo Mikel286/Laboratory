@@ -178,5 +178,45 @@ val_x <- qnorm(0.8,
                sd = sd(flores$Sepal.Width))
 
 # Pregunta 4.e El cuantil correspondiente al 0,75.
+valor2_x <- qnorm(0.75, 
+                  mean = mean(flores$Sepal.Width), 
+                  sd = sd(flores$Sepal.Width))
 
+# Pregunta 4.f fX(3), fX(2), fX(4)
+valor_f = list(a = dnorm(2, mean = mean(flores$Sepal.Width), sd = sd(flores$Sepal.Width)),
+               b = dnorm(3, mean = mean(flores$Sepal.Width), sd = sd(flores$Sepal.Width)),
+               c = dnorm(4, mean = mean(flores$Sepal.Width), sd = sd(flores$Sepal.Width)))
+print(valor_f)
 
+# Ejercicio 5
+
+# Pregunta 5.a
+set.seed(1010)
+n <- 15
+p <- 0.6
+X <- rbinom(100, size = n, prob = p)
+
+frecuencia <- table(X)
+frecuencias <- frecuencia[as.character(0:n)]
+  
+bino_barras <- barplot(frecuencias,
+                       names.arg = 0:15,
+                       col = "lightblue", 
+                       border = "white", 
+                       main = "Distribución Binomial\n(n = 15, p = 0.6)", 
+                       xlab = "Número de éxitos", 
+                       ylab = "Probabilidad")
+               
+# Pregunta 5.b.1 P(X ≤ 6)
+prob_a2 <- pbinom(6, size = 15, prob = 0.6)
+
+# Pregunta 5.b.2 P(X > 8)
+prob_b2 <- 1 - pbinom(8, size = 15, prob = 0.6)
+
+# Pregunta 5.b.3 P(7 < X ≤ 10)
+a2 <- 1 - pbinom(7, size = 15, prob = 0.6)
+b2 <- pbinom(10, size = 15, prob = 0.6)
+prob_c2 <- b2 - a2
+
+# Pregunta 5.b.4 P(X ≤ k) = 0,05
+val2_x <- qbinom(0.05, size = 15, prob = 0.6)
