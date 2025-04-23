@@ -1,91 +1,95 @@
-const paises = [
-    { nombre: "Argentina", codigo: "ARG", consumo: Math.random() * 16 },
-    { nombre: "Bolivia", codigo: "BOL", consumo: Math.random() * 16 },
-    { nombre: "Brazil", codigo: "BRA", consumo: Math.random() * 16 },
-    { nombre: "Canada", codigo: "CAN", consumo: Math.random() * 16 },
-    { nombre: "Chile", codigo: "CHL", consumo: Math.random() * 16 },
-    { nombre: "Colombia", codigo: "COL", consumo: Math.random() * 16 },
-    { nombre: "Mexico", codigo: "MEX", consumo: Math.random() * 16 },
-    { nombre: "United States", codigo: "USA", consumo: Math.random() * 16 }
-  ];
+fetch("regiones.json")
+  .then(res => res.json())
+  .then(geojson => {
+    const regiones = desperdicios.map(r => r.region);
+    const toneladas = desperdicios.map(r => r.toneladas);
+
+    const data = [{
+  type: "choropleth",
+  geojson: geojson,
+  locations: regiones,
+  z: toneladas,
+  featureidkey: "properties.Region",
+
+  colorscale: [
+  [0, "#f5c08f"],
+  [0.167, "#f5c08f"],
+
+  [0.167, "#ef9e52"],
+  [0.334, "#ef9e52"],
+
+  [0.334, "#e07715"],
+  [0.5, "#e07715"],
+
+  [0.5, "#b66111"],
+  [0.668, "#b66111"],
+
+  [0.668, "#83450c"],
+  [0.835, "#83450c"],
   
-  const data = [
-    {
-      type: 'choropleth',
-      locations: ["CHL"],
-      z: paises.map(p => p.consumo),
-      locationmode: 'ISO-3',
-      colorscale: [
-        [0, 'rgb(255, 200, 200)'],
-        [0.166, 'rgb(255, 200, 200)'],
-        [0.166, 'rgb(240, 160, 160)'],
-        [0.333, 'rgb(240, 160, 160)'],
-        [0.333, 'rgb(225, 120, 120)'],
-        [0.5, 'rgb(225, 120, 120)'],
-        [0.5, 'rgb(210, 80, 80)'],
-        [0.666, 'rgb(210, 80, 80)'],
-        [0.666, 'rgb(195, 40, 40)'],
-        [0.833, 'rgb(195, 40, 40)'],
-        [0.833, 'rgb(220, 0, 0)'],
-        [1, 'rgb(220, 0, 0)']
-      ],
-      zmin: 0,
-      zmax: 18,
-      text: paises.map(p => p.nombre),
-      autocolorscale: false,
-      reversescale: false,
-      marker: {
-        line: {
-          color: 'rgb(180,180,180)',
-          width: 0.5
-        }
-      },
-      colorbar: {
-        autotick: false,
-        tickprefix: '',
-        ticksuffix: ' L',
-        tickvals: [0, 3, 6, 9, 12, 15, 18],
-        ticktext: ['0 L', '3 L', '6 L', '9 L', '12 L', '15 L', '18 L'],
-        orientation: 'v',
-        x: 1.05,
-        y: 0.5,
-        len: 0.7,
-        thickness: 20
-      }
+  [0.835, "#4b2807"],
+  [1, "#4b2807"]
+],
+  zmin: 0,
+  zmax: 3000000,
+  marker: {
+    line: {
+      color: "black",
+      width: 0.5
     }
-  ];
-  
-  const layout = {
-    title: {
-      text: '<b>Consumo de alcohol en el mundo - 2020</b>',
-      font: {
-        family: 'Lato',
-        size: 24,
-        color: 'rgb(220, 0, 0)'
+  },
+  hoverinfo: "skip",
+  showscale: false
+},
+
+];
+
+    const layout = {
+      
+      width: 650,
+      height: 600,
+      margin: { l: 0, r: 0, b: 0, t: 0, pad: 0 },
+      dragmode: false,
+      
+      geo: {
+        scope: "south america",
+        showland: false,
+        countrywidth: 0,
+        lonaxis: { range: [-64, -76] },
+        lataxis: { range: [-18, -59] },
       },
-      x: 0.5,
-      y: 0.8,
-      xanchor: 'center'
-    },
-    geo: {
-      showland: true,
-      showcoastlines: false,
-      landcolor: 'rgb(217, 217, 217)',
-      countrycolor: 'rgb(255, 255, 255)',
-      showframe: false,
-      projection: {
-        type: 'equirectangular'
-      },
-      lonaxis: { range: [-180, 180] },
-      lataxis: { range: [-90, 90] }
-    },
-    dragmode: false,
-    scrollZoom: false
-  };
-  
-  const config = {
-    staticPlot: true,
-    displayModeBar: false
-  };
-  
-  Plotly.newPlot('mapa', data, layout, config);
+      
+      shapes: [
+    {
+      type: "line",           // Definir la forma como una línea
+      x0: -62.6373209,        // Longitud del inicio de la línea
+      y0: -38.710133,         // Latitud del inicio de la línea
+      x1: -50,                // Longitud del final de la línea
+      y1: -38.710133,         // Latitud del final de la línea
+      line: {
+        color: "blue",        // Color de la línea
+        width:2              // Grosor de la línea
+      }
+    }]
+      
+    };
+
+    Plotly.newPlot("layout_box", data, layout);
+
+    
+
+    const legendHtml = legend.map(item => {
+  return `<div style="display: flex; align-items: center; margin-bottom: 5px;">
+            <div style="width: 11px; height: 11px; background-color: ${item.color}; margin-right: 5px;"></div>
+            <span style="font-size: 12px;">${item.label}</span>
+          </div>`;
+}).join("");
+
+    document.getElementById("legend-container").innerHTML = legendHtml;
+  });
+
+const residuosHtml = desperdicios.map(region => {
+  return `<p>Región: ${region.region}, Toneladas de residuos: ${region.toneladas.toLocaleString()}</p>`;
+}).join("");
+
+document.getElementById("residuos-info").innerHTML = residuosHtml;

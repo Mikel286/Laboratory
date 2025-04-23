@@ -47,9 +47,13 @@ def region_data(data):
 
 if __name__=="__main__":
     # Cargar el archivo CSV
-    df = pd.read_csv('data/data_filtering.csv')
+    df = pd.read_csv('data/commune_data.csv')
 
     # Encontrar el índice de la fila con el valor máximo en 'cantidad_toneladas'
-    max_row = df[df['cantidad_toneladas'] == df['cantidad_toneladas'].max()]
+    # max_row = df[df['cantidad_toneladas'] == df['cantidad_toneladas'].max()]
+    #print(max_row)
 
-    print(max_row)
+    # Filtrar los cinco registros mas altos
+    max_rows = df.nlargest(5, 'cantidad_toneladas')
+    print(max_rows)
+    

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.plot.ly/plotly-2.34.0.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <script charset="UTF-8" src="data.js"></script>
+    <title>Project of group 4</title>
+</head>
+<body>
+    
+    <div id="presentation_box">
+        <h1 class="title" style="color: black; font-size: 36px;">Generación de Residuos en Chile 2023</h1> </div>
+    
+    <div id="layout_box"> </div>
+    
+    <div id="contexto" style="padding: 15px; border-radius: 10px; width: 500px; height: 150px;">
+        <h2 style="color: black; text-decoration: underline; font-size: 16px; margin-bottom: 8px;">Gestión de Residuos en Chile</h2>
+        <p style="color: black; font-size: 15px;">En Chile, se generan anualmente aproximadamente <strong>17 millones de toneladas</strong> de residuos. Solo alrededor del <strong>10%</strong> de los residuos totales se recicla. La generación de residuos per cápita es de <strong>1,13 kg</strong> por persona al día.</p>
+        <p style="color: black; font-size: 12px;">Fuente: Ministerio del Medio Ambiente de Chile.</p> </div>
+
+    <div id="legend-container" style="padding: 10px; border-radius: 10px; width: 190px; height: 140px; overflow-y: auto;">
+        <h3 style="color: #FF9900; font-size: 14px; margin-bottom: 8px;">Leyenda</h3>
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+            <div style="width: 12px; height: 12px; background-color: #f5c08f; margin-right: 5px;"></div>
+            <span style="font-size: 12px;">0-500.000 ton/año</span> </div>
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+            <div style="width: 12px; height: 12px; background-color: #ef9e52; margin-right: 5px;"></div>
+            <span style="font-size: 12px;">500.000-1.000.000 ton/año</span> </div>
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+            <div style="width: 12px; height: 12px; background-color: #e07715; margin-right: 5px;"></div>
+            <span style="font-size: 12px;">1.000.000-1.500.000 ton/año</span> </div>
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+            <div style="width: 12px; height: 12px; background-color: #b66111; margin-right: 5px;"></div>
+            <span style="font-size: 12px;">1.500.000-2.000.000 ton/año</span> </div>
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+            <div style="width: 12px; height: 12px; background-color: #83450c; margin-right: 5px;"></div>
+            <span style="font-size: 12px;">2.000.000-2.500.000 ton/año</span> </div>
+        <div style="display: flex; align-items: center; margin-bottom: 5px;">
+            <div style="width: 12px; height: 12px; background-color: #4b2807; margin-right: 5px;"></div>
+            <span style="font-size: 12px;">2.500.000-3.000.000 ton/año</span> </div> </div>
+
+    <div style="position: absolute; top: 232px; left: 317px; width: 5px; height: 5px; border-radius: 50%; background-color: #FF0000;"> </div>
+    <div style="position: absolute; top: 225px; left: 320px; width: 100px; height: 2px; background-color: #FF0000; transform: rotate(170deg);"> </div>
+    <div style="position: absolute; top: 190px; left: 422px; font-size: 14px; color: black;">
+    La Región Metropolitana es la <br>que más contamina en todo Chile <br>. </div>
+    <div style="position: absolute; top: 480px; left: 280px; width: 5px; height: 5px; border-radius: 50%; background-color: #FF0000;"> </div>
+    <div style="position: absolute; top: 478px; left: 280px; width: 100px; height: 2px; background-color: #FF0000; transform: rotate(175deg);"></div>
+    <div style="position: absolute; top: 460px; left: 385px; font-size: 14px; color: black;">
+    La Región de Magallanes y Antártica Chilena <br>es la que menos contamina en todo Chile <br>.</div>
+
+    <div id="overhob_vox">
+        <span id="Region"></span>
+        <span id="Comuna"></span>
+        <span id="Latitud"></span>
+        <span id="Longitud"></span>
+        <span id="Residuos"></span></div>
+
+    <div style="position: absolute; top: 320px; right: 180px;">
+        <h2 style="color: black; text-decoration: underline; font-size: 16px; margin-bottom: 8px;">Top 5 comunas que mas residuos producen</h2>
+        <p style="color: black; font-size: 15px;"> 1º Comuna de Antofagasta con 734862 ton/año</p>
+        <p style="color: black; font-size: 15px;"> 2º Comuna de Mejillones con 508965 ton/año</p>
+        <p style="color: black; font-size: 15px;"> 3º Comuna de Talcahuano con 387500 ton/año</p>
+        <p style="color: black; font-size: 15px;"> 4º Comuna de Calama con 311168 ton/año</p>
+        <p style="color: black; font-size: 15px;"> 5º Comuna de San Bernardo con 304690 ton/año</p>
+    </div>
+
+
+<script charset="UTF-8" src="script.js"></script>
+</body>
+</html>
