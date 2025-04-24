@@ -2,7 +2,7 @@ const plot = document.getElementById("layout_box");
 
 const Longitud = comunas.map((item) => item.longitud);
 const Latitud = comunas.map((item) => item.latitud);
-const residuos = comunas.map((item) => item.cantidad_toneladas)
+const residuos = comunas.map((item) => item.cantidad_toneladas);
 
 const min = Math.min(...residuos);
 const max = Math.max(...residuos);

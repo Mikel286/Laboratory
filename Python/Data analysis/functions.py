@@ -46,14 +46,24 @@ def region_data(data):
     resultado.to_csv("data/region_data.csv", index=False)
 
 if __name__=="__main__":
+    
     # Cargar el archivo CSV
-    df = pd.read_csv('data/commune_data.csv')
+    data_residuos = pd.read_csv('data/commune_data.csv')
+    
+    data_censo = pd.read_csv('data/census2024_data.csv', encoding='utf-8')
+    data_censo = data_censo[['comuna', 'Población censada']]
+    
+    data_capita = pd.merge(data_censo, data_residuos, on='comuna')
 
-    # Encontrar el índice de la fila con el valor máximo en 'cantidad_toneladas'
-    # max_row = df[df['cantidad_toneladas'] == df['cantidad_toneladas'].max()]
-    #print(max_row)
+    data_capita['residuos_per_capita'] = data_capita['cantidad_toneladas'] / data_capita['Población censada']
 
-    # Filtrar los cinco registros mas altos
-    max_rows = df.nlargest(5, 'cantidad_toneladas')
-    print(max_rows)
+    data_capita.to_csv("data/commune_capita.csv", index=False)
+
+    top_5 = data_capita.sort_values(by='residuos_per_capita', ascending=False).head(5)
+    
+    print(top_5)
+
+
+
+    
     
