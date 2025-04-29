@@ -1,0 +1,2729 @@
+[
+    {
+      "comuna": "Arica",
+      "Población censada": 241653,
+      "latitud": -18.4754587,
+      "longitud": -70.31406901,
+      "region": "Arica y Parinacota",
+      "cantidad_toneladas": 273354.37215,
+      "residuos_per_capita": 1.1311855104219688
+    },
+    {
+      "comuna": "Putre",
+      "Población censada": 1547,
+      "latitud": -18.83694069,
+      "longitud": -69.0427804,
+      "region": "Arica y Parinacota",
+      "cantidad_toneladas": 31.6791,
+      "residuos_per_capita": 0.02047776341305753
+    },
+    {
+      "comuna": "Iquique",
+      "Población censada": 199587,
+      "latitud": -20.29499481,
+      "longitud": -70.1277879,
+      "region": "Tarapacá",
+      "cantidad_toneladas": 28440.963939,
+      "residuos_per_capita": 0.14249908029581085
+    },
+    {
+      "comuna": "Alto Hospicio",
+      "Población censada": 142086,
+      "latitud": -20.24893721,
+      "longitud": -70.09737505,
+      "region": "Tarapacá",
+      "cantidad_toneladas": 4506.210747,
+      "residuos_per_capita": 0.03171467102318314
+    },
+    {
+      "comuna": "Pozo Almonte",
+      "Población censada": 16878,
+      "latitud": -20.05762649,
+      "longitud": -69.2573269,
+      "region": "Tarapacá",
+      "cantidad_toneladas": 12412.635,
+      "residuos_per_capita": 0.7354328119445432
+    },
+    {
+      "comuna": "Huara",
+      "Población censada": 2858,
+      "latitud": -19.87941853,
+      "longitud": -69.86443756,
+      "region": "Tarapacá",
+      "cantidad_toneladas": 37.141,
+      "residuos_per_capita": 0.012995451364590621
+    },
+    {
+      "comuna": "Pica",
+      "Población censada": 6272,
+      "latitud": -20.98876896,
+      "longitud": -68.65651325,
+      "region": "Tarapacá",
+      "cantidad_toneladas": 43809.853,
+      "residuos_per_capita": 6.984989317602041
+    },
+    {
+      "comuna": "Antofagasta",
+      "Población censada": 401096,
+      "latitud": -23.51288949,
+      "longitud": -70.40188905,
+      "region": "Antofagasta",
+      "cantidad_toneladas": 734862.83452536,
+      "residuos_per_capita": 1.8321370308488742
+    },
+    {
+      "comuna": "Mejillones",
+      "Población censada": 14084,
+      "latitud": -23.09922444,
+      "longitud": -70.44974202,
+      "region": "Antofagasta",
+      "cantidad_toneladas": 508965.8007,
+      "residuos_per_capita": 36.13787281312128
+    },
+    {
+      "comuna": "Sierra Gorda",
+      "Población censada": 1472,
+      "latitud": -22.9815965,
+      "longitud": -69.71890676,
+      "region": "Antofagasta",
+      "cantidad_toneladas": 39481.39627,
+      "residuos_per_capita": 26.821600726902172
+    },
+    {
+      "comuna": "Taltal",
+      "Población censada": 12097,
+      "latitud": -25.40366862,
+      "longitud": -70.47501719,
+      "region": "Antofagasta",
+      "cantidad_toneladas": 9643.099,
+      "residuos_per_capita": 0.797147970571216
+    },
+    {
+      "comuna": "Calama",
+      "Población censada": 166334,
+      "latitud": -22.50702722,
+      "longitud": -68.93408842,
+      "region": "Antofagasta",
+      "cantidad_toneladas": 311168.04065,
+      "residuos_per_capita": 1.8707422454218618
+    },
+    {
+      "comuna": "Tocopilla",
+      "Población censada": 25400,
+      "latitud": -22.0928061,
+      "longitud": -70.2008246,
+      "region": "Antofagasta",
+      "cantidad_toneladas": 95787.5085,
+      "residuos_per_capita": 3.7711617519685037
+    },
+    {
+      "comuna": "María Elena",
+      "Población censada": 4834,
+      "latitud": -22.35344346,
+      "longitud": -69.592528,
+      "region": "Antofagasta",
+      "cantidad_toneladas": 5958.96481,
+      "residuos_per_capita": 1.2327192407943732
+    },
+    {
+      "comuna": "Copiapó",
+      "Población censada": 168831,
+      "latitud": -27.3632829,
+      "longitud": -70.34508046,
+      "region": "Atacama",
+      "cantidad_toneladas": 21501.3401,
+      "residuos_per_capita": 0.1273542187157572
+    },
+    {
+      "comuna": "Caldera",
+      "Población censada": 18805,
+      "latitud": -26.9124952,
+      "longitud": -70.81237559,
+      "region": "Atacama",
+      "cantidad_toneladas": 2945.1255,
+      "residuos_per_capita": 0.15661395905344325
+    },
+    {
+      "comuna": "Tierra Amarilla",
+      "Población censada": 11846,
+      "latitud": -27.8146489,
+      "longitud": -69.26254324,
+      "region": "Atacama",
+      "cantidad_toneladas": 18160.403,
+      "residuos_per_capita": 1.533040942090157
+    },
+    {
+      "comuna": "Chañaral",
+      "Población censada": 12345,
+      "latitud": -26.5392346,
+      "longitud": -70.3444497,
+      "region": "Atacama",
+      "cantidad_toneladas": 2065.781,
+      "residuos_per_capita": 0.16733746456055082
+    },
+    {
+      "comuna": "Diego de Almagro",
+      "Población censada": 11397,
+      "latitud": -26.237688,
+      "longitud": -69.5612646,
+      "region": "Atacama",
+      "cantidad_toneladas": 12935.339,
+      "residuos_per_capita": 1.134977537948583
+    },
+    {
+      "comuna": "Vallenar",
+      "Población censada": 54222,
+      "latitud": -28.98254497,
+      "longitud": -70.89343134,
+      "region": "Atacama",
+      "cantidad_toneladas": 2101.493,
+      "residuos_per_capita": 0.03875720187377817
+    },
+    {
+      "comuna": "Alto del Carmen",
+      "Población censada": 4788,
+      "latitud": -28.75892526,
+      "longitud": -70.48486677,
+      "region": "Atacama",
+      "cantidad_toneladas": 1151.36,
+      "residuos_per_capita": 0.2404678362573099
+    },
+    {
+      "comuna": "Freirina",
+      "Población censada": 7577,
+      "latitud": -28.50915726,
+      "longitud": -70.91935617,
+      "region": "Atacama",
+      "cantidad_toneladas": 148.628919,
+      "residuos_per_capita": 0.019615800316748054
+    },
+    {
+      "comuna": "Huasco",
+      "Población censada": 9369,
+      "latitud": -28.46860974,
+      "longitud": -71.25437653,
+      "region": "Atacama",
+      "cantidad_toneladas": 273047.07450000005,
+      "residuos_per_capita": 29.143673230867762
+    },
+    {
+      "comuna": "La Serena",
+      "Población censada": 250141,
+      "latitud": -29.9054771,
+      "longitud": -71.2629223,
+      "region": "Coquimbo",
+      "cantidad_toneladas": 18220.41646,
+      "residuos_per_capita": 0.07284058375076458
+    },
+    {
+      "comuna": "Coquimbo",
+      "Población censada": 263719,
+      "latitud": -29.95801517,
+      "longitud": -71.33766678,
+      "region": "Coquimbo",
+      "cantidad_toneladas": 25499.47747,
+      "residuos_per_capita": 0.09669184802763549
+    },
+    {
+      "comuna": "Andacollo",
+      "Población censada": 11566,
+      "latitud": -30.2528887,
+      "longitud": -71.08701007,
+      "region": "Coquimbo",
+      "cantidad_toneladas": 3163.491,
+      "residuos_per_capita": 0.27351642745979593
+    },
+    {
+      "comuna": "La Higuera",
+      "Población censada": 4335,
+      "latitud": -29.46891932,
+      "longitud": -70.99683843,
+      "region": "Coquimbo",
+      "cantidad_toneladas": 115.969,
+      "residuos_per_capita": 0.0267517877739331
+    },
+    {
+      "comuna": "Paiguano",
+      "Población censada": 4649,
+      "latitud": -30.1227768,
+      "longitud": -70.49244004,
+      "region": "Coquimbo",
+      "cantidad_toneladas": 94.61,
+      "residuos_per_capita": 0.020350613035061305
+    },
+    {
+      "comuna": "Vicuña",
+      "Población censada": 28047,
+      "latitud": -35.67514497,
+      "longitud": -71.54296465,
+      "region": "Coquimbo",
+      "cantidad_toneladas": 2299.426,
+      "residuos_per_capita": 0.08198473990088066
+    },
+    {
+      "comuna": "Illapel",
+      "Población censada": 32009,
+      "latitud": -31.781342,
+      "longitud": -70.9680122,
+      "region": "Coquimbo",
+      "cantidad_toneladas": 645.3480000000001,
+      "residuos_per_capita": 0.020161454590896313
+    },
+    {
+      "comuna": "Los Vilos",
+      "Población censada": 22879,
+      "latitud": -31.90965763,
+      "longitud": -71.51678907,
+      "region": "Coquimbo",
+      "cantidad_toneladas": 1466.8165,
+      "residuos_per_capita": 0.06411191485641854
+    },
+    {
+      "comuna": "Salamanca",
+      "Población censada": 27823,
+      "latitud": -31.77442905,
+      "longitud": -70.98830153,
+      "region": "Coquimbo",
+      "cantidad_toneladas": 16645.575,
+      "residuos_per_capita": 0.5982667217769472
+    },
+    {
+      "comuna": "Ovalle",
+      "Población censada": 118696,
+      "latitud": -30.59789679,
+      "longitud": -71.18391428,
+      "region": "Coquimbo",
+      "cantidad_toneladas": 28528.23425,
+      "residuos_per_capita": 0.24034705676686663
+    },
+    {
+      "comuna": "Combarbalá",
+      "Población censada": 12954,
+      "latitud": -31.1413769,
+      "longitud": -71.08665641,
+      "region": "Coquimbo",
+      "cantidad_toneladas": 596.21,
+      "residuos_per_capita": 0.046025165971900574
+    },
+    {
+      "comuna": "Monte Patria",
+      "Población censada": 29997,
+      "latitud": -30.69882214,
+      "longitud": -70.95329143,
+      "region": "Coquimbo",
+      "cantidad_toneladas": 1508.97,
+      "residuos_per_capita": 0.0503040304030403
+    },
+    {
+      "comuna": "Punitaqui",
+      "Población censada": 12076,
+      "latitud": -30.9872229,
+      "longitud": -71.28055661,
+      "region": "Coquimbo",
+      "cantidad_toneladas": 147.79,
+      "residuos_per_capita": 0.01223832394832726
+    },
+    {
+      "comuna": "Río Hurtado",
+      "Población censada": 4334,
+      "latitud": -30.33990951,
+      "longitud": -70.75809048,
+      "region": "Coquimbo",
+      "cantidad_toneladas": 108.232,
+      "residuos_per_capita": 0.024972773419473928
+    },
+    {
+      "comuna": "Valparaíso",
+      "Población censada": 284938,
+      "latitud": -33.04860942,
+      "longitud": -71.60382299,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 25270.13853,
+      "residuos_per_capita": 0.08868644592858797
+    },
+    {
+      "comuna": "Casablanca",
+      "Población censada": 29876,
+      "latitud": -33.46917586,
+      "longitud": -71.39702855,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 44105.3888,
+      "residuos_per_capita": 1.476281590574374
+    },
+    {
+      "comuna": "Concón",
+      "Población censada": 48294,
+      "latitud": -32.9792269,
+      "longitud": -71.48848096,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 44901.884280000006,
+      "residuos_per_capita": 0.9297611355447883
+    },
+    {
+      "comuna": "Puchuncaví",
+      "Población censada": 22539,
+      "latitud": -32.75556034,
+      "longitud": -71.47886576,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 106928.0618,
+      "residuos_per_capita": 4.744135134655486
+    },
+    {
+      "comuna": "Quintero",
+      "Población censada": 35754,
+      "latitud": -32.91396244,
+      "longitud": -71.49705375,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 5080.043816,
+      "residuos_per_capita": 0.14208323029591097
+    },
+    {
+      "comuna": "Viña del Mar",
+      "Población censada": 334871,
+      "latitud": -33.02592447,
+      "longitud": -71.54747555,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 44115.043985,
+      "residuos_per_capita": 0.1317374272033111
+    },
+    {
+      "comuna": "Los Andes",
+      "Población censada": 63440,
+      "latitud": -32.83616157,
+      "longitud": -70.60424077,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 20888.567345,
+      "residuos_per_capita": 0.3292649329287516
+    },
+    {
+      "comuna": "Calle Larga",
+      "Población censada": 16597,
+      "latitud": -32.85825172,
+      "longitud": -70.6395388,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 484.98,
+      "residuos_per_capita": 0.02922094354401398
+    },
+    {
+      "comuna": "Rinconada",
+      "Población censada": 11855,
+      "latitud": -32.92614836,
+      "longitud": -70.68082881,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 397.987,
+      "residuos_per_capita": 0.03357123576549979
+    },
+    {
+      "comuna": "San Esteban",
+      "Población censada": 20112,
+      "latitud": -32.7967678,
+      "longitud": -70.5562522,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 1344.8517,
+      "residuos_per_capita": 0.06686812350835322
+    },
+    {
+      "comuna": "La Ligua",
+      "Población censada": 39270,
+      "latitud": -32.45014325,
+      "longitud": -71.23561077,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 11981.7859,
+      "residuos_per_capita": 0.30511295900178254
+    },
+    {
+      "comuna": "Cabildo",
+      "Población censada": 20015,
+      "latitud": -32.41656523,
+      "longitud": -71.07067454,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 505.162,
+      "residuos_per_capita": 0.025239170622033475
+    },
+    {
+      "comuna": "Zapallar",
+      "Población censada": 7980,
+      "latitud": -32.63431367,
+      "longitud": -71.42348765,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 197.724,
+      "residuos_per_capita": 0.024777443609022554
+    },
+    {
+      "comuna": "Quillota",
+      "Población censada": 96753,
+      "latitud": -32.89211263,
+      "longitud": -71.26273607,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 12027.498545,
+      "residuos_per_capita": 0.1243113758229719
+    },
+    {
+      "comuna": "Calera",
+      "Población censada": 50631,
+      "latitud": -32.79074483,
+      "longitud": -71.19177185,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 29244.84027,
+      "residuos_per_capita": 0.5776074000118505
+    },
+    {
+      "comuna": "Hijuelas",
+      "Población censada": 19286,
+      "latitud": -32.79799772,
+      "longitud": -71.14372019,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 1884.464,
+      "residuos_per_capita": 0.09771150057036192
+    },
+    {
+      "comuna": "La Cruz",
+      "Población censada": 24939,
+      "latitud": -32.84544368,
+      "longitud": -71.18045515,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 243.279,
+      "residuos_per_capita": 0.009754962107542403
+    },
+    {
+      "comuna": "Nogales",
+      "Población censada": 22136,
+      "latitud": -32.72256606,
+      "longitud": -71.21348643,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 4856.113,
+      "residuos_per_capita": 0.21937626490784243
+    },
+    {
+      "comuna": "San Antonio",
+      "Población censada": 96770,
+      "latitud": -33.5816834,
+      "longitud": -71.6136029,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 8761.771378,
+      "residuos_per_capita": 0.09054222773586855
+    },
+    {
+      "comuna": "Algarrobo",
+      "Población censada": 16076,
+      "latitud": -33.36162317,
+      "longitud": -71.66902625,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 653.3301,
+      "residuos_per_capita": 0.0406400908186116
+    },
+    {
+      "comuna": "Cartagena",
+      "Población censada": 24599,
+      "latitud": -33.57188433,
+      "longitud": -71.5150485,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 453.2773,
+      "residuos_per_capita": 0.018426655555103866
+    },
+    {
+      "comuna": "El Quisco",
+      "Población censada": 18971,
+      "latitud": -33.39663603,
+      "longitud": -71.69468943,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 172.107,
+      "residuos_per_capita": 0.009072110062727321
+    },
+    {
+      "comuna": "El Tabo",
+      "Población censada": 16260,
+      "latitud": -33.51762303,
+      "longitud": -71.60520303,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 269.017,
+      "residuos_per_capita": 0.01654471094710947
+    },
+    {
+      "comuna": "Santo Domingo",
+      "Población censada": 13171,
+      "latitud": -33.89107243,
+      "longitud": -71.63321155,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 7851.525,
+      "residuos_per_capita": 0.596122162326323
+    },
+    {
+      "comuna": "San Felipe",
+      "Población censada": 80413,
+      "latitud": -32.79962448,
+      "longitud": -70.69996117,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 10887.66979,
+      "residuos_per_capita": 0.13539688595127652
+    },
+    {
+      "comuna": "Catemu",
+      "Población censada": 13760,
+      "latitud": -32.79958061,
+      "longitud": -70.95446046,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 2966.894,
+      "residuos_per_capita": 0.2156172965116279
+    },
+    {
+      "comuna": "Llaillay",
+      "Población censada": 25484,
+      "latitud": -32.85028848,
+      "longitud": -70.95175746,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 1220.22243,
+      "residuos_per_capita": 0.047881903547323815
+    },
+    {
+      "comuna": "Panquehue",
+      "Población censada": 7269,
+      "latitud": -32.74007148,
+      "longitud": -70.76392596,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 1902.41,
+      "residuos_per_capita": 0.2617155041959004
+    },
+    {
+      "comuna": "Santa María",
+      "Población censada": 15134,
+      "latitud": -32.73877273,
+      "longitud": -70.65862147,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 3474.6920000000005,
+      "residuos_per_capita": 0.22959508391700809
+    },
+    {
+      "comuna": "Quilpué",
+      "Población censada": 162559,
+      "latitud": -33.04454216,
+      "longitud": -71.41806106,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 34222.942868,
+      "residuos_per_capita": 0.21052628810462662
+    },
+    {
+      "comuna": "Limache",
+      "Población censada": 56145,
+      "latitud": -32.989622,
+      "longitud": -71.26558589,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 3540.82731,
+      "residuos_per_capita": 0.06306576382580818
+    },
+    {
+      "comuna": "Olmué",
+      "Población censada": 19778,
+      "latitud": -32.99813496,
+      "longitud": -71.18927866,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 227.37213,
+      "residuos_per_capita": 0.01149621448073617
+    },
+    {
+      "comuna": "Villa Alemana",
+      "Población censada": 139571,
+      "latitud": -33.05880996,
+      "longitud": -71.39596432,
+      "region": "Valparaíso",
+      "cantidad_toneladas": 5854.60897,
+      "residuos_per_capita": 0.041947173624893426
+    },
+    {
+      "comuna": "Santiago",
+      "Población censada": 438856,
+      "latitud": -33.44001254,
+      "longitud": -70.64817256,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 147098.192938491,
+      "residuos_per_capita": 0.3351855573092108
+    },
+    {
+      "comuna": "Cerrillos",
+      "Población censada": 85041,
+      "latitud": -33.48234897,
+      "longitud": -70.6932919,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 45552.1870492,
+      "residuos_per_capita": 0.5356497107183594
+    },
+    {
+      "comuna": "Cerro Navia",
+      "Población censada": 127250,
+      "latitud": -33.42912669,
+      "longitud": -70.72708309,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 6489.54599,
+      "residuos_per_capita": 0.050998396777996065
+    },
+    {
+      "comuna": "Conchalí",
+      "Población censada": 121587,
+      "latitud": -33.38793653,
+      "longitud": -70.69006115,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 30651.63228,
+      "residuos_per_capita": 0.25209629549211676
+    },
+    {
+      "comuna": "El Bosque",
+      "Población censada": 155257,
+      "latitud": -33.5539758,
+      "longitud": -70.67501011,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 12162.8968,
+      "residuos_per_capita": 0.07834040848399751
+    },
+    {
+      "comuna": "Estación Central",
+      "Población censada": 181049,
+      "latitud": -33.45219714,
+      "longitud": -70.68034433,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 63349.802027955,
+      "residuos_per_capita": 0.34990418079058705
+    },
+    {
+      "comuna": "Huechuraba",
+      "Población censada": 101808,
+      "latitud": -33.36622373,
+      "longitud": -70.67852809,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 85485.432977631,
+      "residuos_per_capita": 0.8396730411915665
+    },
+    {
+      "comuna": "Independencia",
+      "Población censada": 116943,
+      "latitud": -33.42520936,
+      "longitud": -70.65458227,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 22403.388277,
+      "residuos_per_capita": 0.1915752826334197
+    },
+    {
+      "comuna": "La Cisterna",
+      "Población censada": 103157,
+      "latitud": -33.5197398,
+      "longitud": -70.6592514,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 37417.77219,
+      "residuos_per_capita": 0.3627264479385791
+    },
+    {
+      "comuna": "La Florida",
+      "Población censada": 374836,
+      "latitud": -33.51047727,
+      "longitud": -70.60727437,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 42806.33246464,
+      "residuos_per_capita": 0.11420016344385278
+    },
+    {
+      "comuna": "La Granja",
+      "Población censada": 112022,
+      "latitud": -33.550359,
+      "longitud": -70.61810461,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 9904.69095,
+      "residuos_per_capita": 0.08841737292674653
+    },
+    {
+      "comuna": "La Pintana",
+      "Población censada": 175421,
+      "latitud": -33.60863713,
+      "longitud": -70.6573783,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 18785.41475,
+      "residuos_per_capita": 0.10708760496177766
+    },
+    {
+      "comuna": "La Reina",
+      "Población censada": 89870,
+      "latitud": -33.45003776,
+      "longitud": -70.55271177,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 8211.967335351,
+      "residuos_per_capita": 0.09137606915935241
+    },
+    {
+      "comuna": "Las Condes",
+      "Población censada": 296134,
+      "latitud": -33.3908833,
+      "longitud": -70.5462013,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 118654.72866319,
+      "residuos_per_capita": 0.40067918125980134
+    },
+    {
+      "comuna": "Lo Barnechea",
+      "Población censada": 112620,
+      "latitud": -33.33207274,
+      "longitud": -70.51129328,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 31279.6760172,
+      "residuos_per_capita": 0.2777453029408631
+    },
+    {
+      "comuna": "Lo Espejo",
+      "Población censada": 87295,
+      "latitud": -33.53610296,
+      "longitud": -70.69349953,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 1104.25817,
+      "residuos_per_capita": 0.012649729881436509
+    },
+    {
+      "comuna": "Lo Prado",
+      "Población censada": 91290,
+      "latitud": -33.45715007,
+      "longitud": -70.70594901,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 4014.40444,
+      "residuos_per_capita": 0.043974196954759556
+    },
+    {
+      "comuna": "Macul",
+      "Población censada": 123800,
+      "latitud": -33.48413405,
+      "longitud": -70.60455972,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 76684.8302612,
+      "residuos_per_capita": 0.619425123273021
+    },
+    {
+      "comuna": "Maipú",
+      "Población censada": 503635,
+      "latitud": -33.48135452,
+      "longitud": -70.75184865,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 102853.070516136,
+      "residuos_per_capita": 0.20422145108289932
+    },
+    {
+      "comuna": "Ñuñoa",
+      "Población censada": 241467,
+      "latitud": -33.46410463,
+      "longitud": -70.59826181,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 73825.473386,
+      "residuos_per_capita": 0.30573731974141394
+    },
+    {
+      "comuna": "Pedro Aguirre Cerda",
+      "Población censada": 96062,
+      "latitud": -33.49111742,
+      "longitud": -70.66722246,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 37096.44739,
+      "residuos_per_capita": 0.3861719242780704
+    },
+    {
+      "comuna": "Peñalolén",
+      "Población censada": 236478,
+      "latitud": -33.48216102,
+      "longitud": -70.5583843,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 34583.991869,
+      "residuos_per_capita": 0.1462461280499666
+    },
+    {
+      "comuna": "Providencia",
+      "Población censada": 143974,
+      "latitud": -33.4440771,
+      "longitud": -70.6322005,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 105502.205229748,
+      "residuos_per_capita": 0.7327865116600775
+    },
+    {
+      "comuna": "Pudahuel",
+      "Población censada": 227820,
+      "latitud": -33.42664892,
+      "longitud": -70.79300446,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 96138.930392928,
+      "residuos_per_capita": 0.4219951294571504
+    },
+    {
+      "comuna": "Quilicura",
+      "Población censada": 205624,
+      "latitud": -33.37387582,
+      "longitud": -70.71969142,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 286789.961849624,
+      "residuos_per_capita": 1.3947300016030424
+    },
+    {
+      "comuna": "Quinta Normal",
+      "Población censada": 129351,
+      "latitud": -33.43657855,
+      "longitud": -70.71648531,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 8220.12632,
+      "residuos_per_capita": 0.06354899706998786
+    },
+    {
+      "comuna": "Recoleta",
+      "Población censada": 154615,
+      "latitud": -33.41394541,
+      "longitud": -70.64237836,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 8260.627274,
+      "residuos_per_capita": 0.05342707547133202
+    },
+    {
+      "comuna": "Renca",
+      "Población censada": 143622,
+      "latitud": -33.41191626,
+      "longitud": -70.7821744,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 112172.29346319,
+      "residuos_per_capita": 0.7810244493405606
+    },
+    {
+      "comuna": "San Joaquín",
+      "Población censada": 95602,
+      "latitud": -33.48543395,
+      "longitud": -70.62728174,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 14226.22775,
+      "residuos_per_capita": 0.1488068005899458
+    },
+    {
+      "comuna": "San Miguel",
+      "Población censada": 150829,
+      "latitud": -33.4825381,
+      "longitud": -70.6455892,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 17632.289539100002,
+      "residuos_per_capita": 0.11690251569061653
+    },
+    {
+      "comuna": "San Ramón",
+      "Población censada": 76002,
+      "latitud": -33.54570794,
+      "longitud": -70.63372044,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 1455.58357,
+      "residuos_per_capita": 0.019151911397068497
+    },
+    {
+      "comuna": "Vitacura",
+      "Población censada": 86420,
+      "latitud": -33.40019493,
+      "longitud": -70.59168224,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 23171.56216064,
+      "residuos_per_capita": 0.26812731035223325
+    },
+    {
+      "comuna": "Puente Alto",
+      "Población censada": 568086,
+      "latitud": -33.6104377,
+      "longitud": -70.5738562,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 194336.834882613,
+      "residuos_per_capita": 0.3420905195386139
+    },
+    {
+      "comuna": "Pirque",
+      "Población censada": 29060,
+      "latitud": -33.73200051,
+      "longitud": -70.53766475,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 2234.004,
+      "residuos_per_capita": 0.0768755677907777
+    },
+    {
+      "comuna": "San José de Maipo",
+      "Población censada": 17441,
+      "latitud": -33.50789274,
+      "longitud": -70.20030639,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 12444.9555,
+      "residuos_per_capita": 0.7135459836018577
+    },
+    {
+      "comuna": "Colina",
+      "Población censada": 173293,
+      "latitud": -33.09390287,
+      "longitud": -70.7096112,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 173933.59594399997,
+      "residuos_per_capita": 1.0036966060025505
+    },
+    {
+      "comuna": "Lampa",
+      "Población censada": 145160,
+      "latitud": -33.284917,
+      "longitud": -70.74703,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 97890.209681,
+      "residuos_per_capita": 0.6743607721204188
+    },
+    {
+      "comuna": "Tiltil",
+      "Población censada": 19742,
+      "latitud": -33.1513545,
+      "longitud": -70.90409225,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 102296.643163,
+      "residuos_per_capita": 5.181675775655962
+    },
+    {
+      "comuna": "San Bernardo",
+      "Población censada": 306371,
+      "latitud": -33.5931429,
+      "longitud": -70.7056384,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 304690.419141195,
+      "residuos_per_capita": 0.9945145563424574
+    },
+    {
+      "comuna": "Buin",
+      "Población censada": 116969,
+      "latitud": -33.73474579,
+      "longitud": -70.73084161,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 69627.992017,
+      "residuos_per_capita": 0.5952687636638767
+    },
+    {
+      "comuna": "Calera de Tango",
+      "Población censada": 25491,
+      "latitud": -33.61212384,
+      "longitud": -70.81989012,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 2044.11797,
+      "residuos_per_capita": 0.0801897912988898
+    },
+    {
+      "comuna": "Paine",
+      "Población censada": 78828,
+      "latitud": -33.86422029,
+      "longitud": -70.83677808,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 21679.34903,
+      "residuos_per_capita": 0.2750209193433805
+    },
+    {
+      "comuna": "Melipilla",
+      "Población censada": 136325,
+      "latitud": -33.68486869,
+      "longitud": -71.21369993,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 41288.35672,
+      "residuos_per_capita": 0.3028670949569045
+    },
+    {
+      "comuna": "Alhué",
+      "Población censada": 7768,
+      "latitud": -34.09258705,
+      "longitud": -71.18903008,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 4677.822,
+      "residuos_per_capita": 0.602191297631308
+    },
+    {
+      "comuna": "Curacaví",
+      "Población censada": 35165,
+      "latitud": -33.41263545,
+      "longitud": -71.05675028,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 15010.650253114,
+      "residuos_per_capita": 0.4268633656509029
+    },
+    {
+      "comuna": "María Pinto",
+      "Población censada": 15352,
+      "latitud": -33.51705212,
+      "longitud": -71.12381036,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 290.808,
+      "residuos_per_capita": 0.018942678478374154
+    },
+    {
+      "comuna": "San Pedro",
+      "Población censada": 11108,
+      "latitud": -33.88564294,
+      "longitud": -71.39856103,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 64201.373,
+      "residuos_per_capita": 5.779741897731364
+    },
+    {
+      "comuna": "Talagante",
+      "Población censada": 76429,
+      "latitud": -33.66132418,
+      "longitud": -70.92522627,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 41241.993251,
+      "residuos_per_capita": 0.5396118391055751
+    },
+    {
+      "comuna": "El Monte",
+      "Población censada": 37497,
+      "latitud": -33.68915647,
+      "longitud": -71.04718944,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 62325.338289,
+      "residuos_per_capita": 1.6621419923993919
+    },
+    {
+      "comuna": "Isla de Maipo",
+      "Población censada": 39274,
+      "latitud": -33.74231583,
+      "longitud": -70.86250881,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 13777.23685,
+      "residuos_per_capita": 0.35079790319295207
+    },
+    {
+      "comuna": "Padre Hurtado",
+      "Población censada": 81243,
+      "latitud": -33.5727482,
+      "longitud": -70.8286021,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 21918.102488,
+      "residuos_per_capita": 0.26978450436345286
+    },
+    {
+      "comuna": "Peñaflor",
+      "Población censada": 94402,
+      "latitud": -33.60200527,
+      "longitud": -70.84730831,
+      "region": "Metropolitana de Santiago",
+      "cantidad_toneladas": 16090.855115,
+      "residuos_per_capita": 0.1704503624393551
+    },
+    {
+      "comuna": "Rancagua",
+      "Población censada": 257744,
+      "latitud": -34.15888565,
+      "longitud": -70.72735328,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 107169.20393,
+      "residuos_per_capita": 0.41579708520857905
+    },
+    {
+      "comuna": "Codegua",
+      "Población censada": 13955,
+      "latitud": -34.04307124,
+      "longitud": -70.66798006,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 25535.389,
+      "residuos_per_capita": 1.8298379792189179
+    },
+    {
+      "comuna": "Coinco",
+      "Población censada": 7916,
+      "latitud": -34.2477047,
+      "longitud": -70.91997013,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 352.57800000000003,
+      "residuos_per_capita": 0.04453991915108641
+    },
+    {
+      "comuna": "Coltauco",
+      "Población censada": 21373,
+      "latitud": -34.30927146,
+      "longitud": -71.16167501,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 9.452,
+      "residuos_per_capita": 0.0004422402096102559
+    },
+    {
+      "comuna": "Doñihue",
+      "Población censada": 21925,
+      "latitud": -34.20761831,
+      "longitud": -70.89624403,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 47828.8822,
+      "residuos_per_capita": 2.181476953249715
+    },
+    {
+      "comuna": "Graneros",
+      "Población censada": 35938,
+      "latitud": -34.07640198,
+      "longitud": -70.73050901,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 52033.796324,
+      "residuos_per_capita": 1.44787679681674
+    },
+    {
+      "comuna": "Las Cabras",
+      "Población censada": 27554,
+      "latitud": -34.09596053,
+      "longitud": -71.32197614,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 15521.04131,
+      "residuos_per_capita": 0.5632953948610002
+    },
+    {
+      "comuna": "Machalí",
+      "Población censada": 60875,
+      "latitud": -34.1827525,
+      "longitud": -70.6484967,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 23956.03069,
+      "residuos_per_capita": 0.3935282248870636
+    },
+    {
+      "comuna": "Malloa",
+      "Población censada": 13882,
+      "latitud": -34.46295391,
+      "longitud": -70.92415695,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 1143.654,
+      "residuos_per_capita": 0.08238395043941796
+    },
+    {
+      "comuna": "Mostazal",
+      "Población censada": 27394,
+      "latitud": -33.96344414,
+      "longitud": -70.7087996,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 78353.97032,
+      "residuos_per_capita": 2.8602602876542305
+    },
+    {
+      "comuna": "Olivar",
+      "Población censada": 13901,
+      "latitud": -34.20552706,
+      "longitud": -70.7636599,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 6995.724999999999,
+      "residuos_per_capita": 0.5032533630674052
+    },
+    {
+      "comuna": "Peumo",
+      "Población censada": 14243,
+      "latitud": -34.36363396,
+      "longitud": -71.19638373,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 1516.61829,
+      "residuos_per_capita": 0.10648166046478971
+    },
+    {
+      "comuna": "Pichidegua",
+      "Población censada": 20363,
+      "latitud": -34.4129932,
+      "longitud": -71.3034483,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 12471.264,
+      "residuos_per_capita": 0.6124472818347002
+    },
+    {
+      "comuna": "Quinta de Tilcoco",
+      "Población censada": 13558,
+      "latitud": -34.37538668,
+      "longitud": -70.98034707,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 31407.563,
+      "residuos_per_capita": 2.3165336332792448
+    },
+    {
+      "comuna": "Rengo",
+      "Población censada": 63620,
+      "latitud": -34.38970587,
+      "longitud": -70.85569476,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 91203.45568,
+      "residuos_per_capita": 1.433565791889343
+    },
+    {
+      "comuna": "Requínoa",
+      "Población censada": 29508,
+      "latitud": -34.29198832,
+      "longitud": -70.80923462,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 33841.65113,
+      "residuos_per_capita": 1.1468636007184492
+    },
+    {
+      "comuna": "San Vicente",
+      "Población censada": 49559,
+      "latitud": -34.45850999,
+      "longitud": -71.11398763,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 106805.7186,
+      "residuos_per_capita": 2.1551225529167253
+    },
+    {
+      "comuna": "Pichilemu",
+      "Población censada": 19847,
+      "latitud": -34.38821496,
+      "longitud": -71.98065909,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 716.345,
+      "residuos_per_capita": 0.03609336423640853
+    },
+    {
+      "comuna": "La Estrella",
+      "Población censada": 4609,
+      "latitud": -34.24477187,
+      "longitud": -71.58474914,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 57641.696,
+      "residuos_per_capita": 12.50633456281189
+    },
+    {
+      "comuna": "Litueche",
+      "Población censada": 8852,
+      "latitud": -34.00632684,
+      "longitud": -71.52659704,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 112.985,
+      "residuos_per_capita": 0.012763782196113873
+    },
+    {
+      "comuna": "Marchihue",
+      "Población censada": 8715,
+      "latitud": -34.34418401,
+      "longitud": -71.65161755,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 178.01999999999998,
+      "residuos_per_capita": 0.020426850258175557
+    },
+    {
+      "comuna": "San Fernando",
+      "Población censada": 75585,
+      "latitud": -34.58654565,
+      "longitud": -70.98517473,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 35057.30782,
+      "residuos_per_capita": 0.46381302930475626
+    },
+    {
+      "comuna": "Chépica",
+      "Población censada": 15668,
+      "latitud": -34.7069443,
+      "longitud": -71.22555437,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 270.249,
+      "residuos_per_capita": 0.017248468215471026
+    },
+    {
+      "comuna": "Chimbarongo",
+      "Población censada": 37258,
+      "latitud": -34.77061875,
+      "longitud": -71.04303566,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 25986.5086,
+      "residuos_per_capita": 0.697474598743894
+    },
+    {
+      "comuna": "Lolol",
+      "Población censada": 7791,
+      "latitud": -34.80064936,
+      "longitud": -71.68524023,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 1656.446,
+      "residuos_per_capita": 0.21261019124630984
+    },
+    {
+      "comuna": "Nancagua",
+      "Población censada": 18723,
+      "latitud": -34.67670392,
+      "longitud": -71.20550407,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 5387.335000000001,
+      "residuos_per_capita": 0.28773887731666936
+    },
+    {
+      "comuna": "Palmilla",
+      "Población censada": 13060,
+      "latitud": -34.56499721,
+      "longitud": -71.38814552,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 15078.142,
+      "residuos_per_capita": 1.1545284839203676
+    },
+    {
+      "comuna": "Peralillo",
+      "Población censada": 12493,
+      "latitud": -34.4285832,
+      "longitud": -71.50008532,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 2238.239,
+      "residuos_per_capita": 0.1791594492916033
+    },
+    {
+      "comuna": "Placilla",
+      "Población censada": 9438,
+      "latitud": -34.63568776,
+      "longitud": -71.1188238,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 5024.977,
+      "residuos_per_capita": 0.5324196863742318
+    },
+    {
+      "comuna": "Santa Cruz",
+      "Población censada": 41209,
+      "latitud": -34.63231915,
+      "longitud": -71.3860388,
+      "region": "Libertador Gral. Bernardo O'Higgins",
+      "cantidad_toneladas": 3221.80596,
+      "residuos_per_capita": 0.07818209517338445
+    },
+    {
+      "comuna": "Talca",
+      "Población censada": 232131,
+      "latitud": -35.4349312,
+      "longitud": -71.63777813,
+      "region": "Maule",
+      "cantidad_toneladas": 46402.1061849,
+      "residuos_per_capita": 0.19989620595655042
+    },
+    {
+      "comuna": "Constitución",
+      "Población censada": 47004,
+      "latitud": -35.33329815,
+      "longitud": -72.41670118,
+      "region": "Maule",
+      "cantidad_toneladas": 43847.653,
+      "residuos_per_capita": 0.9328493957961024
+    },
+    {
+      "comuna": "Curepto",
+      "Población censada": 9519,
+      "latitud": -35.08769577,
+      "longitud": -72.0309036,
+      "region": "Maule",
+      "cantidad_toneladas": 8.530000000000001,
+      "residuos_per_capita": 0.0008961025317785482
+    },
+    {
+      "comuna": "Empedrado",
+      "Población censada": 3990,
+      "latitud": -35.57702841,
+      "longitud": -72.40448018,
+      "region": "Maule",
+      "cantidad_toneladas": 36.687,
+      "residuos_per_capita": 0.009194736842105262
+    },
+    {
+      "comuna": "Maule",
+      "Población censada": 61081,
+      "latitud": -35.44137686,
+      "longitud": -71.64062096,
+      "region": "Maule",
+      "cantidad_toneladas": 11742.3415,
+      "residuos_per_capita": 0.19224212930371148
+    },
+    {
+      "comuna": "Pelarco",
+      "Población censada": 9229,
+      "latitud": -35.33382921,
+      "longitud": -71.39019759,
+      "region": "Maule",
+      "cantidad_toneladas": 1445.587,
+      "residuos_per_capita": 0.1566352800953516
+    },
+    {
+      "comuna": "Pencahue",
+      "Población censada": 9181,
+      "latitud": -35.44640718,
+      "longitud": -71.81093049,
+      "region": "Maule",
+      "cantidad_toneladas": 4835.034,
+      "residuos_per_capita": 0.526634789238645
+    },
+    {
+      "comuna": "Río Claro",
+      "Población censada": 14276,
+      "latitud": -35.2260949,
+      "longitud": -71.4171615,
+      "region": "Maule",
+      "cantidad_toneladas": 749.66,
+      "residuos_per_capita": 0.052511908097506305
+    },
+    {
+      "comuna": "San Clemente",
+      "Población censada": 47380,
+      "latitud": -35.80304933,
+      "longitud": -70.82989349,
+      "region": "Maule",
+      "cantidad_toneladas": 5472.612,
+      "residuos_per_capita": 0.11550468552131701
+    },
+    {
+      "comuna": "San Rafael",
+      "Población censada": 11230,
+      "latitud": -35.27947148,
+      "longitud": -71.54355299,
+      "region": "Maule",
+      "cantidad_toneladas": 548.176,
+      "residuos_per_capita": 0.048813535173642036
+    },
+    {
+      "comuna": "Cauquenes",
+      "Población censada": 42798,
+      "latitud": -35.96059031,
+      "longitud": -72.34045066,
+      "region": "Maule",
+      "cantidad_toneladas": 868.415,
+      "residuos_per_capita": 0.02029101827188186
+    },
+    {
+      "comuna": "Chanco",
+      "Población censada": 9446,
+      "latitud": -35.73993067,
+      "longitud": -72.54004995,
+      "region": "Maule",
+      "cantidad_toneladas": 4.337,
+      "residuos_per_capita": 0.00045913614228244756
+    },
+    {
+      "comuna": "Pelluhue",
+      "Población censada": 8578,
+      "latitud": -35.84365788,
+      "longitud": -72.63969362,
+      "region": "Maule",
+      "cantidad_toneladas": 12.721,
+      "residuos_per_capita": 0.0014829797155514106
+    },
+    {
+      "comuna": "Curicó",
+      "Población censada": 159968,
+      "latitud": -34.9838424,
+      "longitud": -71.2410553,
+      "region": "Maule",
+      "cantidad_toneladas": 16377.925317,
+      "residuos_per_capita": 0.10238250973319664
+    },
+    {
+      "comuna": "Hualañé",
+      "Población censada": 10775,
+      "latitud": -34.97473135,
+      "longitud": -71.81215187,
+      "region": "Maule",
+      "cantidad_toneladas": 4.265,
+      "residuos_per_capita": 0.0003958236658932714
+    },
+    {
+      "comuna": "Licantén",
+      "Población censada": 6892,
+      "latitud": -34.98792967,
+      "longitud": -72.02029776,
+      "region": "Maule",
+      "cantidad_toneladas": 11710.405,
+      "residuos_per_capita": 1.6991301508995937
+    },
+    {
+      "comuna": "Molina",
+      "Población censada": 48949,
+      "latitud": -35.13145458,
+      "longitud": -71.35893961,
+      "region": "Maule",
+      "cantidad_toneladas": 62211.15129,
+      "residuos_per_capita": 1.2709381456209525
+    },
+    {
+      "comuna": "Rauco",
+      "Población censada": 11266,
+      "latitud": -34.93545617,
+      "longitud": -71.32807851,
+      "region": "Maule",
+      "cantidad_toneladas": 58.916,
+      "residuos_per_capita": 0.0052295402094798505
+    },
+    {
+      "comuna": "Romeral",
+      "Población censada": 17233,
+      "latitud": -34.97714069,
+      "longitud": -71.20699327,
+      "region": "Maule",
+      "cantidad_toneladas": 2054.232,
+      "residuos_per_capita": 0.11920338884697963
+    },
+    {
+      "comuna": "Sagrada Familia",
+      "Población censada": 19427,
+      "latitud": -35.05312271,
+      "longitud": -71.32550585,
+      "region": "Maule",
+      "cantidad_toneladas": 30541.75885,
+      "residuos_per_capita": 1.5721294512791475
+    },
+    {
+      "comuna": "Teno",
+      "Población censada": 30113,
+      "latitud": -34.85616571,
+      "longitud": -71.10322398,
+      "region": "Maule",
+      "cantidad_toneladas": 90856.4571,
+      "residuos_per_capita": 3.017183844186896
+    },
+    {
+      "comuna": "Linares",
+      "Población censada": 96744,
+      "latitud": -35.8446962,
+      "longitud": -71.6087218,
+      "region": "Maule",
+      "cantidad_toneladas": 46895.053,
+      "residuos_per_capita": 0.4847334511700984
+    },
+    {
+      "comuna": "Colbún",
+      "Población censada": 22637,
+      "latitud": -35.85783352,
+      "longitud": -71.06391721,
+      "region": "Maule",
+      "cantidad_toneladas": 65.84195,
+      "residuos_per_capita": 0.0029085987542518885
+    },
+    {
+      "comuna": "Longaví",
+      "Población censada": 33299,
+      "latitud": -35.94029652,
+      "longitud": -71.67941693,
+      "region": "Maule",
+      "cantidad_toneladas": 367.015,
+      "residuos_per_capita": 0.011021802456530226
+    },
+    {
+      "comuna": "Parral",
+      "Población censada": 45323,
+      "latitud": -36.12497168,
+      "longitud": -71.80443884,
+      "region": "Maule",
+      "cantidad_toneladas": 1652.3290000000002,
+      "residuos_per_capita": 0.03645674381660526
+    },
+    {
+      "comuna": "Retiro",
+      "Población censada": 22310,
+      "latitud": -36.08557537,
+      "longitud": -71.78912534,
+      "region": "Maule",
+      "cantidad_toneladas": 1599.189,
+      "residuos_per_capita": 0.07168036754818467
+    },
+    {
+      "comuna": "San Javier",
+      "Población censada": 49559,
+      "latitud": -35.61289063,
+      "longitud": -71.73291807,
+      "region": "Maule",
+      "cantidad_toneladas": 8343.72301,
+      "residuos_per_capita": 0.16835939001997619
+    },
+    {
+      "comuna": "Villa Alegre",
+      "Población censada": 17919,
+      "latitud": -35.70812607,
+      "longitud": -71.71170106,
+      "region": "Maule",
+      "cantidad_toneladas": 1149.702,
+      "residuos_per_capita": 0.06416105809475975
+    },
+    {
+      "comuna": "Yerbas Buenas",
+      "Población censada": 20035,
+      "latitud": -35.60735526,
+      "longitud": -71.58941369,
+      "region": "Maule",
+      "cantidad_toneladas": 33285.740000000005,
+      "residuos_per_capita": 1.6613795857249816
+    },
+    {
+      "comuna": "Chillán",
+      "Población censada": 190382,
+      "latitud": -36.60197261,
+      "longitud": -72.09320754,
+      "region": "Ñuble",
+      "cantidad_toneladas": 39396.637,
+      "residuos_per_capita": 0.20693467344601907
+    },
+    {
+      "comuna": "Bulnes",
+      "Población censada": 23863,
+      "latitud": -36.7432971,
+      "longitud": -72.2981833,
+      "region": "Ñuble",
+      "cantidad_toneladas": 1084.483,
+      "residuos_per_capita": 0.04544621380379667
+    },
+    {
+      "comuna": "El Carmen",
+      "Población censada": 13186,
+      "latitud": -36.89686969,
+      "longitud": -72.04051943,
+      "region": "Ñuble",
+      "cantidad_toneladas": 52.637,
+      "residuos_per_capita": 0.003991885332928864
+    },
+    {
+      "comuna": "Pemuco",
+      "Población censada": 8930,
+      "latitud": -36.91337606,
+      "longitud": -72.34325999,
+      "region": "Ñuble",
+      "cantidad_toneladas": 7557.336999999999,
+      "residuos_per_capita": 0.84628633818589
+    },
+    {
+      "comuna": "Pinto",
+      "Población censada": 12502,
+      "latitud": -36.90304031,
+      "longitud": -71.40869702,
+      "region": "Ñuble",
+      "cantidad_toneladas": 27.095,
+      "residuos_per_capita": 0.002167253239481683
+    },
+    {
+      "comuna": "Quillón",
+      "Población censada": 19165,
+      "latitud": -36.73385684,
+      "longitud": -72.47178783,
+      "region": "Ñuble",
+      "cantidad_toneladas": 227.908,
+      "residuos_per_capita": 0.011891886250978345
+    },
+    {
+      "comuna": "San Ignacio",
+      "Población censada": 17405,
+      "latitud": -36.88709545,
+      "longitud": -72.11712571,
+      "region": "Ñuble",
+      "cantidad_toneladas": 23.335,
+      "residuos_per_capita": 0.0013407066934788855
+    },
+    {
+      "comuna": "Yungay",
+      "Población censada": 18680,
+      "latitud": -37.12201892,
+      "longitud": -72.01315931,
+      "region": "Ñuble",
+      "cantidad_toneladas": 2713.967,
+      "residuos_per_capita": 0.145287312633833
+    },
+    {
+      "comuna": "Quirihue",
+      "Población censada": 11746,
+      "latitud": -36.21726042,
+      "longitud": -72.52976253,
+      "region": "Ñuble",
+      "cantidad_toneladas": 16.426000000000002,
+      "residuos_per_capita": 0.001398433509279755
+    },
+    {
+      "comuna": "Cobquecura",
+      "Población censada": 5495,
+      "latitud": -36.12486919,
+      "longitud": -72.80045197,
+      "region": "Ñuble",
+      "cantidad_toneladas": 8.904,
+      "residuos_per_capita": 0.0016203821656050955
+    },
+    {
+      "comuna": "Coelemu",
+      "Población censada": 15895,
+      "latitud": -36.47139182,
+      "longitud": -72.70472309,
+      "region": "Ñuble",
+      "cantidad_toneladas": 225.152,
+      "residuos_per_capita": 0.014164957533815664
+    },
+    {
+      "comuna": "Ninhue",
+      "Población censada": 5763,
+      "latitud": -36.39913789,
+      "longitud": -72.39123945,
+      "region": "Ñuble",
+      "cantidad_toneladas": 8.674,
+      "residuos_per_capita": 0.0015051188617039735
+    },
+    {
+      "comuna": "Ránquil",
+      "Población censada": 6508,
+      "latitud": -36.66382881,
+      "longitud": -72.48360144,
+      "region": "Ñuble",
+      "cantidad_toneladas": 154379.763,
+      "residuos_per_capita": 23.72153703134604
+    },
+    {
+      "comuna": "San Carlos",
+      "Población censada": 55847,
+      "latitud": -36.43590142,
+      "longitud": -71.94768783,
+      "region": "Ñuble",
+      "cantidad_toneladas": 5401.219,
+      "residuos_per_capita": 0.09671457732734078
+    },
+    {
+      "comuna": "Coihueco",
+      "Población censada": 29766,
+      "latitud": -36.61637375,
+      "longitud": -71.84335266,
+      "region": "Ñuble",
+      "cantidad_toneladas": 58.186,
+      "residuos_per_capita": 0.001954780622186387
+    },
+    {
+      "comuna": "Ñiquén",
+      "Población censada": 12797,
+      "latitud": -36.22979133,
+      "longitud": -72.01346712,
+      "region": "Ñuble",
+      "cantidad_toneladas": 11789.59,
+      "residuos_per_capita": 0.9212776431976245
+    },
+    {
+      "comuna": "Concepción",
+      "Población censada": 230375,
+      "latitud": -36.82462481,
+      "longitud": -73.04500568,
+      "region": "Biobío",
+      "cantidad_toneladas": 151248.84924,
+      "residuos_per_capita": 0.6565332576885513
+    },
+    {
+      "comuna": "Coronel",
+      "Población censada": 123648,
+      "latitud": -37.0128236,
+      "longitud": -73.1585467,
+      "region": "Biobío",
+      "cantidad_toneladas": 88908.759,
+      "residuos_per_capita": 0.7190472874611802
+    },
+    {
+      "comuna": "Chiguayante",
+      "Población censada": 85822,
+      "latitud": -36.90280831,
+      "longitud": -73.02831022,
+      "region": "Biobío",
+      "cantidad_toneladas": 4030.953,
+      "residuos_per_capita": 0.04696876092377246
+    },
+    {
+      "comuna": "Florida",
+      "Población censada": 12958,
+      "latitud": -36.7890582,
+      "longitud": -72.63881382,
+      "region": "Biobío",
+      "cantidad_toneladas": 383.524,
+      "residuos_per_capita": 0.029597468745176724
+    },
+    {
+      "comuna": "Hualqui",
+      "Población censada": 25795,
+      "latitud": -36.97092337,
+      "longitud": -72.92903129,
+      "region": "Biobío",
+      "cantidad_toneladas": 341.48668,
+      "residuos_per_capita": 0.013238483427020739
+    },
+    {
+      "comuna": "Lota",
+      "Población censada": 39980,
+      "latitud": -37.08127102,
+      "longitud": -73.16337819,
+      "region": "Biobío",
+      "cantidad_toneladas": 1235.98209,
+      "residuos_per_capita": 0.03091500975487744
+    },
+    {
+      "comuna": "Penco",
+      "Población censada": 48971,
+      "latitud": -36.73199145,
+      "longitud": -72.99120038,
+      "region": "Biobío",
+      "cantidad_toneladas": 2636.906,
+      "residuos_per_capita": 0.053846276367646155
+    },
+    {
+      "comuna": "Santa Juana",
+      "Población censada": 14947,
+      "latitud": -37.18358468,
+      "longitud": -72.9449809,
+      "region": "Biobío",
+      "cantidad_toneladas": 7.442,
+      "residuos_per_capita": 0.0004978925536897037
+    },
+    {
+      "comuna": "Talcahuano",
+      "Población censada": 147322,
+      "latitud": -36.78096007,
+      "longitud": -73.0578207,
+      "region": "Biobío",
+      "cantidad_toneladas": 387500.96384,
+      "residuos_per_capita": 2.630299370358806
+    },
+    {
+      "comuna": "Tomé",
+      "Población censada": 56907,
+      "latitud": -36.72946496,
+      "longitud": -72.86376234,
+      "region": "Biobío",
+      "cantidad_toneladas": 23374.1453,
+      "residuos_per_capita": 0.4107428840037254
+    },
+    {
+      "comuna": "Hualpén",
+      "Población censada": 87731,
+      "latitud": -36.80107943,
+      "longitud": -73.07187611,
+      "region": "Biobío",
+      "cantidad_toneladas": 31421.46929,
+      "residuos_per_capita": 0.35815697176596645
+    },
+    {
+      "comuna": "Lebu",
+      "Población censada": 25246,
+      "latitud": -37.60277423,
+      "longitud": -73.65246711,
+      "region": "Biobío",
+      "cantidad_toneladas": 283.687,
+      "residuos_per_capita": 0.011236908817238375
+    },
+    {
+      "comuna": "Arauco",
+      "Población censada": 37163,
+      "latitud": -37.21707124,
+      "longitud": -73.2177903,
+      "region": "Biobío",
+      "cantidad_toneladas": 157639.84,
+      "residuos_per_capita": 4.241849151037322
+    },
+    {
+      "comuna": "Cañete",
+      "Población censada": 34640,
+      "latitud": -37.8028861,
+      "longitud": -73.4003703,
+      "region": "Biobío",
+      "cantidad_toneladas": 262.115,
+      "residuos_per_capita": 0.007566830254041571
+    },
+    {
+      "comuna": "Contulmo",
+      "Población censada": 5905,
+      "latitud": -38.00802192,
+      "longitud": -73.23077878,
+      "region": "Biobío",
+      "cantidad_toneladas": 5.336,
+      "residuos_per_capita": 0.000903640982218459
+    },
+    {
+      "comuna": "Curanilahue",
+      "Población censada": 31119,
+      "latitud": -37.43221167,
+      "longitud": -73.35296887,
+      "region": "Biobío",
+      "cantidad_toneladas": 877.335,
+      "residuos_per_capita": 0.028192904656319292
+    },
+    {
+      "comuna": "Antuco",
+      "Población censada": 4373,
+      "latitud": -37.34932502,
+      "longitud": -71.55555736,
+      "region": "Biobío",
+      "cantidad_toneladas": 16.599,
+      "residuos_per_capita": 0.0037957923622227306
+    },
+    {
+      "comuna": "Cabrero",
+      "Población censada": 31256,
+      "latitud": -37.17274039,
+      "longitud": -72.40745471,
+      "region": "Biobío",
+      "cantidad_toneladas": 21939.25048,
+      "residuos_per_capita": 0.7019212464806757
+    },
+    {
+      "comuna": "Laja",
+      "Población censada": 23706,
+      "latitud": -37.28572825,
+      "longitud": -72.71244478,
+      "region": "Biobío",
+      "cantidad_toneladas": 99634.925,
+      "residuos_per_capita": 4.20294123850502
+    },
+    {
+      "comuna": "Mulchén",
+      "Población censada": 29036,
+      "latitud": -37.70345538,
+      "longitud": -72.2594054,
+      "region": "Biobío",
+      "cantidad_toneladas": 4831.067,
+      "residuos_per_capita": 0.16638197410111585
+    },
+    {
+      "comuna": "Nacimiento",
+      "Población censada": 26140,
+      "latitud": -37.51797507,
+      "longitud": -72.65824828,
+      "region": "Biobío",
+      "cantidad_toneladas": 182081.368,
+      "residuos_per_capita": 6.965622341239479
+    },
+    {
+      "comuna": "Negrete",
+      "Población censada": 10723,
+      "latitud": -37.5581858,
+      "longitud": -72.59256124,
+      "region": "Biobío",
+      "cantidad_toneladas": 222.643,
+      "residuos_per_capita": 0.020763125990860765
+    },
+    {
+      "comuna": "Quilaco",
+      "Población censada": 4440,
+      "latitud": -37.71302013,
+      "longitud": -71.82799944,
+      "region": "Biobío",
+      "cantidad_toneladas": 12.755,
+      "residuos_per_capita": 0.002872747747747748
+    },
+    {
+      "comuna": "Quilleco",
+      "Población censada": 9700,
+      "latitud": -37.35987961,
+      "longitud": -71.86401646,
+      "region": "Biobío",
+      "cantidad_toneladas": 104.9895,
+      "residuos_per_capita": 0.010823659793814434
+    },
+    {
+      "comuna": "Santa Bárbara",
+      "Población censada": 14075,
+      "latitud": -37.71212522,
+      "longitud": -71.81618146,
+      "region": "Biobío",
+      "cantidad_toneladas": 656.1893500000001,
+      "residuos_per_capita": 0.046620912966252225
+    },
+    {
+      "comuna": "Tucapel",
+      "Población censada": 15729,
+      "latitud": -37.28853472,
+      "longitud": -71.79264697,
+      "region": "Biobío",
+      "cantidad_toneladas": 355.301,
+      "residuos_per_capita": 0.022588912200394176
+    },
+    {
+      "comuna": "Yumbel",
+      "Población censada": 23170,
+      "latitud": -37.1625,
+      "longitud": -72.5311111,
+      "region": "Biobío",
+      "cantidad_toneladas": 202.405,
+      "residuos_per_capita": 0.008735649546827795
+    },
+    {
+      "comuna": "Alto Biobío",
+      "Población censada": 6016,
+      "latitud": -37.88378186,
+      "longitud": -71.63866245,
+      "region": "Biobío",
+      "cantidad_toneladas": 287.872,
+      "residuos_per_capita": 0.04785106382978724
+    },
+    {
+      "comuna": "Temuco",
+      "Población censada": 292518,
+      "latitud": -38.71703063,
+      "longitud": -72.56569217,
+      "region": "Araucanía",
+      "cantidad_toneladas": 52046.48847,
+      "residuos_per_capita": 0.17792576344019853
+    },
+    {
+      "comuna": "Carahue",
+      "Población censada": 24957,
+      "latitud": -38.72015115,
+      "longitud": -73.17041601,
+      "region": "Araucanía",
+      "cantidad_toneladas": 155.825,
+      "residuos_per_capita": 0.006243739231478142
+    },
+    {
+      "comuna": "Cunco",
+      "Población censada": 19177,
+      "latitud": -39.06478315,
+      "longitud": -72.08664272,
+      "region": "Araucanía",
+      "cantidad_toneladas": 1012.902,
+      "residuos_per_capita": 0.05281858476299734
+    },
+    {
+      "comuna": "Curarrehue",
+      "Población censada": 7733,
+      "latitud": -39.39013925,
+      "longitud": -71.68036409,
+      "region": "Araucanía",
+      "cantidad_toneladas": 2054.002098,
+      "residuos_per_capita": 0.2656151684986422
+    },
+    {
+      "comuna": "Freire",
+      "Población censada": 26164,
+      "latitud": -38.95444835,
+      "longitud": -72.61668839,
+      "region": "Araucanía",
+      "cantidad_toneladas": 2239.827,
+      "residuos_per_capita": 0.08560720837792388
+    },
+    {
+      "comuna": "Galvarino",
+      "Población censada": 12710,
+      "latitud": -38.4161469,
+      "longitud": -72.7823935,
+      "region": "Araucanía",
+      "cantidad_toneladas": 71.2,
+      "residuos_per_capita": 0.005601888276947286
+    },
+    {
+      "comuna": "Gorbea",
+      "Población censada": 14148,
+      "latitud": -39.11192154,
+      "longitud": -72.62119708,
+      "region": "Araucanía",
+      "cantidad_toneladas": 155.95,
+      "residuos_per_capita": 0.011022759400621996
+    },
+    {
+      "comuna": "Lautaro",
+      "Población censada": 41936,
+      "latitud": -38.5242333,
+      "longitud": -72.4369176,
+      "region": "Araucanía",
+      "cantidad_toneladas": 6132.14494,
+      "residuos_per_capita": 0.14622627193819154
+    },
+    {
+      "comuna": "Loncoche",
+      "Población censada": 25158,
+      "latitud": -39.35535658,
+      "longitud": -72.63801305,
+      "region": "Araucanía",
+      "cantidad_toneladas": 1323.575,
+      "residuos_per_capita": 0.052610501629700296
+    },
+    {
+      "comuna": "Melipeuco",
+      "Población censada": 6796,
+      "latitud": -38.84751136,
+      "longitud": -71.79249661,
+      "region": "Araucanía",
+      "cantidad_toneladas": 1990.703583,
+      "residuos_per_capita": 0.2929228344614479
+    },
+    {
+      "comuna": "Nueva Imperial",
+      "Población censada": 33988,
+      "latitud": -38.76856137,
+      "longitud": -72.85791618,
+      "region": "Araucanía",
+      "cantidad_toneladas": 1415.847,
+      "residuos_per_capita": 0.04165726138637166
+    },
+    {
+      "comuna": "Padre Las Casas",
+      "Población censada": 80656,
+      "latitud": -38.76217111,
+      "longitud": -72.60450463,
+      "region": "Araucanía",
+      "cantidad_toneladas": 1911.5533,
+      "residuos_per_capita": 0.02370007562983535
+    },
+    {
+      "comuna": "Perquenco",
+      "Población censada": 7438,
+      "latitud": -38.41611198,
+      "longitud": -72.37561951,
+      "region": "Araucanía",
+      "cantidad_toneladas": 240.25,
+      "residuos_per_capita": 0.03230034955633235
+    },
+    {
+      "comuna": "Pitrufquén",
+      "Población censada": 27041,
+      "latitud": -38.9879896,
+      "longitud": -72.6352832,
+      "region": "Araucanía",
+      "cantidad_toneladas": 2505.46,
+      "residuos_per_capita": 0.0926541178210865
+    },
+    {
+      "comuna": "Pucón",
+      "Población censada": 32321,
+      "latitud": -39.27225549,
+      "longitud": -71.97762564,
+      "region": "Araucanía",
+      "cantidad_toneladas": 2542.62125,
+      "residuos_per_capita": 0.07866777791528728
+    },
+    {
+      "comuna": "Vilcún",
+      "Población censada": 31575,
+      "latitud": -38.65488057,
+      "longitud": -72.47777071,
+      "region": "Araucanía",
+      "cantidad_toneladas": 33493.902,
+      "residuos_per_capita": 1.0607728266033254
+    },
+    {
+      "comuna": "Villarrica",
+      "Población censada": 67737,
+      "latitud": -39.2812093,
+      "longitud": -72.2282496,
+      "region": "Araucanía",
+      "cantidad_toneladas": 10766.2201,
+      "residuos_per_capita": 0.1589414957851691
+    },
+    {
+      "comuna": "Cholchol",
+      "Población censada": 13167,
+      "latitud": -38.6021996,
+      "longitud": -72.8451645,
+      "region": "Araucanía",
+      "cantidad_toneladas": 68.4,
+      "residuos_per_capita": 0.005194805194805196
+    },
+    {
+      "comuna": "Angol",
+      "Población censada": 53022,
+      "latitud": -37.80272258,
+      "longitud": -72.69950321,
+      "region": "Araucanía",
+      "cantidad_toneladas": 185554.491,
+      "residuos_per_capita": 3.499575478103429
+    },
+    {
+      "comuna": "Collipulli",
+      "Población censada": 24303,
+      "latitud": -37.95850462,
+      "longitud": -72.43904554,
+      "region": "Araucanía",
+      "cantidad_toneladas": 301957.546,
+      "residuos_per_capita": 12.424702547010655
+    },
+    {
+      "comuna": "Curacautín",
+      "Población censada": 18536,
+      "latitud": -38.4315179,
+      "longitud": -71.902553,
+      "region": "Araucanía",
+      "cantidad_toneladas": 3088.344,
+      "residuos_per_capita": 0.16661329305135952
+    },
+    {
+      "comuna": "Lonquimay",
+      "Población censada": 10247,
+      "latitud": -38.46376257,
+      "longitud": -71.35551509,
+      "region": "Araucanía",
+      "cantidad_toneladas": 39.2,
+      "residuos_per_capita": 0.003825509905338148
+    },
+    {
+      "comuna": "Los Sauces",
+      "Población censada": 7348,
+      "latitud": -37.96635124,
+      "longitud": -72.82654433,
+      "region": "Araucanía",
+      "cantidad_toneladas": 11.5,
+      "residuos_per_capita": 0.0015650517147523136
+    },
+    {
+      "comuna": "Renaico",
+      "Población censada": 10686,
+      "latitud": -37.66914691,
+      "longitud": -72.58556347,
+      "region": "Araucanía",
+      "cantidad_toneladas": 1126.8651,
+      "residuos_per_capita": 0.10545247052217854
+    },
+    {
+      "comuna": "Traiguén",
+      "Población censada": 18873,
+      "latitud": -38.26128898,
+      "longitud": -72.68582876,
+      "region": "Araucanía",
+      "cantidad_toneladas": 229.649,
+      "residuos_per_capita": 0.012168123774704604
+    },
+    {
+      "comuna": "Victoria",
+      "Población censada": 34464,
+      "latitud": -38.2281414,
+      "longitud": -72.3328874,
+      "region": "Araucanía",
+      "cantidad_toneladas": 3196.914,
+      "residuos_per_capita": 0.09276096796657382
+    },
+    {
+      "comuna": "Valdivia",
+      "Población censada": 170043,
+      "latitud": -39.816452,
+      "longitud": -73.24253353,
+      "region": "Los Ríos",
+      "cantidad_toneladas": 29711.47387,
+      "residuos_per_capita": 0.17472917950165548
+    },
+    {
+      "comuna": "Corral",
+      "Población censada": 5501,
+      "latitud": -39.87753309,
+      "longitud": -73.42617459,
+      "region": "Los Ríos",
+      "cantidad_toneladas": 128.394,
+      "residuos_per_capita": 0.023340119978185785
+    },
+    {
+      "comuna": "Lanco",
+      "Población censada": 16876,
+      "latitud": -39.45181324,
+      "longitud": -72.78416552,
+      "region": "Los Ríos",
+      "cantidad_toneladas": 121075.011,
+      "residuos_per_capita": 7.174390317610809
+    },
+    {
+      "comuna": "Los Lagos",
+      "Población censada": 21431,
+      "latitud": -39.97743717,
+      "longitud": -72.51354095,
+      "region": "Los Ríos",
+      "cantidad_toneladas": 4822.688,
+      "residuos_per_capita": 0.22503326956278288
+    },
+    {
+      "comuna": "Máfil",
+      "Población censada": 8074,
+      "latitud": -39.6961991,
+      "longitud": -72.87324,
+      "region": "Los Ríos",
+      "cantidad_toneladas": 512.45,
+      "residuos_per_capita": 0.0634691602675254
+    },
+    {
+      "comuna": "Mariquina",
+      "Población censada": 22973,
+      "latitud": -39.5367933,
+      "longitud": -72.8428058,
+      "region": "Los Ríos",
+      "cantidad_toneladas": 47715.30584,
+      "residuos_per_capita": 2.0770167518391154
+    },
+    {
+      "comuna": "Paillaco",
+      "Población censada": 19802,
+      "latitud": -40.07761171,
+      "longitud": -72.8627984,
+      "region": "Los Ríos",
+      "cantidad_toneladas": 817.903,
+      "residuos_per_capita": 0.0413040601959398
+    },
+    {
+      "comuna": "Panguipulli",
+      "Población censada": 35098,
+      "latitud": -39.64363465,
+      "longitud": -72.33649418,
+      "region": "Los Ríos",
+      "cantidad_toneladas": 2839.548,
+      "residuos_per_capita": 0.08090341329990312
+    },
+    {
+      "comuna": "La Unión",
+      "Población censada": 38907,
+      "latitud": -40.29527859,
+      "longitud": -73.0793243,
+      "region": "Los Ríos",
+      "cantidad_toneladas": 29782.217,
+      "residuos_per_capita": 0.7654719459223276
+    },
+    {
+      "comuna": "Futrono",
+      "Población censada": 15635,
+      "latitud": -40.12454289,
+      "longitud": -72.3808556,
+      "region": "Los Ríos",
+      "cantidad_toneladas": 892.53,
+      "residuos_per_capita": 0.05708538535337384
+    },
+    {
+      "comuna": "Lago Ranco",
+      "Población censada": 10527,
+      "latitud": -40.38231329,
+      "longitud": -72.50261869,
+      "region": "Los Ríos",
+      "cantidad_toneladas": 1191.872,
+      "residuos_per_capita": 0.11322048066875653
+    },
+    {
+      "comuna": "Río Bueno",
+      "Población censada": 33363,
+      "latitud": -40.33134523,
+      "longitud": -72.94853761,
+      "region": "Los Ríos",
+      "cantidad_toneladas": 2406.29489,
+      "residuos_per_capita": 0.07212465575637683
+    },
+    {
+      "comuna": "Puerto Montt",
+      "Población censada": 277040,
+      "latitud": -41.45940167,
+      "longitud": -72.97460525,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 225983.58617667,
+      "residuos_per_capita": 0.815707429167882
+    },
+    {
+      "comuna": "Calbuco",
+      "Población censada": 36474,
+      "latitud": -41.81416322,
+      "longitud": -73.32583838,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 81972.61809334,
+      "residuos_per_capita": 2.2474260594763393
+    },
+    {
+      "comuna": "Cochamó",
+      "Población censada": 4199,
+      "latitud": -41.72472423,
+      "longitud": -72.49164057,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 7824.89885,
+      "residuos_per_capita": 1.8635148487735174
+    },
+    {
+      "comuna": "Fresia",
+      "Población censada": 12320,
+      "latitud": -41.14020827,
+      "longitud": -73.40543654,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 118.89,
+      "residuos_per_capita": 0.009650162337662338
+    },
+    {
+      "comuna": "Frutillar",
+      "Población censada": 22554,
+      "latitud": -41.11666961,
+      "longitud": -73.04999757,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 556.0565,
+      "residuos_per_capita": 0.024654451538529753
+    },
+    {
+      "comuna": "Los Muermos",
+      "Población censada": 17162,
+      "latitud": -41.3692783,
+      "longitud": -73.51959214,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 128.55,
+      "residuos_per_capita": 0.007490385735928214
+    },
+    {
+      "comuna": "Llanquihue",
+      "Población censada": 18088,
+      "latitud": -41.22971449,
+      "longitud": -73.16811121,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 15247.5961,
+      "residuos_per_capita": 0.8429674977885891
+    },
+    {
+      "comuna": "Maullín",
+      "Población censada": 15063,
+      "latitud": -41.56129749,
+      "longitud": -73.5116297,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 270.541,
+      "residuos_per_capita": 0.01796063201221536
+    },
+    {
+      "comuna": "Puerto Varas",
+      "Población censada": 52942,
+      "latitud": -41.3234135,
+      "longitud": -73.0038659,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 19331.529106,
+      "residuos_per_capita": 0.36514542529560656
+    },
+    {
+      "comuna": "Castro",
+      "Población censada": 46997,
+      "latitud": -42.48275753,
+      "longitud": -73.76197962,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 23280.182906,
+      "residuos_per_capita": 0.4953546589356767
+    },
+    {
+      "comuna": "Ancud",
+      "Población censada": 40949,
+      "latitud": -41.87206833,
+      "longitud": -73.79173064,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 12745.611,
+      "residuos_per_capita": 0.31125573274072627
+    },
+    {
+      "comuna": "Chonchi",
+      "Población censada": 16078,
+      "latitud": -42.61360294,
+      "longitud": -73.79432191,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 69965.0569,
+      "residuos_per_capita": 4.35160199651698
+    },
+    {
+      "comuna": "Curaco de Vélez",
+      "Población censada": 3662,
+      "latitud": -42.42886418,
+      "longitud": -73.60788871,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 2003.243,
+      "residuos_per_capita": 0.5470352266521027
+    },
+    {
+      "comuna": "Dalcahue",
+      "Población censada": 14894,
+      "latitud": -42.38625795,
+      "longitud": -73.66235539,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 44429.08962,
+      "residuos_per_capita": 2.9830193111319994
+    },
+    {
+      "comuna": "Puqueldón",
+      "Población censada": 4048,
+      "latitud": -42.57493881,
+      "longitud": -73.615049,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 2079.82862,
+      "residuos_per_capita": 0.5137916551383399
+    },
+    {
+      "comuna": "Queilén",
+      "Población censada": 5690,
+      "latitud": -42.74997471,
+      "longitud": -73.58228493,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 2875.69986,
+      "residuos_per_capita": 0.5053954059753955
+    },
+    {
+      "comuna": "Quellón",
+      "Población censada": 28460,
+      "latitud": -43.03330141,
+      "longitud": -73.55000185,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 110285.222091,
+      "residuos_per_capita": 3.8750956462052004
+    },
+    {
+      "comuna": "Quemchi",
+      "Población censada": 8409,
+      "latitud": -42.14910436,
+      "longitud": -73.48311991,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 23722.89179,
+      "residuos_per_capita": 2.821131144012368
+    },
+    {
+      "comuna": "Quinchao",
+      "Población censada": 7678,
+      "latitud": -42.54603705,
+      "longitud": -73.37553854,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 6002.43257,
+      "residuos_per_capita": 0.7817703269080489
+    },
+    {
+      "comuna": "Osorno",
+      "Población censada": 166455,
+      "latitud": -40.57450715,
+      "longitud": -73.13191689,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 76960.81345,
+      "residuos_per_capita": 0.4623520678261392
+    },
+    {
+      "comuna": "Puerto Octay",
+      "Población censada": 8865,
+      "latitud": -40.9727514,
+      "longitud": -72.58846261,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 2426.3308,
+      "residuos_per_capita": 0.2736977777777778
+    },
+    {
+      "comuna": "Purranque",
+      "Población censada": 19542,
+      "latitud": -40.82846982,
+      "longitud": -73.17984244,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 1419.0245,
+      "residuos_per_capita": 0.07261408760618156
+    },
+    {
+      "comuna": "Puyehue",
+      "Población censada": 11712,
+      "latitud": -40.7065613,
+      "longitud": -72.3917192,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 3036.767,
+      "residuos_per_capita": 0.259286799863388
+    },
+    {
+      "comuna": "Río Negro",
+      "Población censada": 13874,
+      "latitud": -40.73566823,
+      "longitud": -73.14969015,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 474.649,
+      "residuos_per_capita": 0.03421140262361251
+    },
+    {
+      "comuna": "San Juan de la Costa",
+      "Población censada": 7776,
+      "latitud": -40.28837074,
+      "longitud": -73.52926596,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 369.484,
+      "residuos_per_capita": 0.047515946502057614
+    },
+    {
+      "comuna": "San Pablo",
+      "Población censada": 10883,
+      "latitud": -40.48441688,
+      "longitud": -73.0358346,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 1239.873,
+      "residuos_per_capita": 0.1139275016080125
+    },
+    {
+      "comuna": "Chaitén",
+      "Población censada": 4025,
+      "latitud": -42.5612925,
+      "longitud": -72.6045598,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 6278.8966,
+      "residuos_per_capita": 1.5599743105590063
+    },
+    {
+      "comuna": "Futaleufú",
+      "Población censada": 3062,
+      "latitud": -43.19213687,
+      "longitud": -71.86998706,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 240.895,
+      "residuos_per_capita": 0.07867243631613324
+    },
+    {
+      "comuna": "Hualaihué",
+      "Población censada": 9480,
+      "latitud": -41.73768015,
+      "longitud": -72.69516345,
+      "region": "Los Lagos",
+      "cantidad_toneladas": 6459.75955,
+      "residuos_per_capita": 0.6814092352320675
+    },
+    {
+      "comuna": "Aysén",
+      "Población censada": 23170,
+      "latitud": -45.41421187,
+      "longitud": -73.39421965,
+      "region": "Aysén del Gral. Carlos Ibañez del Campo",
+      "cantidad_toneladas": 42318.14843,
+      "residuos_per_capita": 1.8264198718170048
+    },
+    {
+      "comuna": "Cisnes",
+      "Población censada": 5137,
+      "latitud": -44.17623582,
+      "longitud": -74.29192523,
+      "region": "Aysén del Gral. Carlos Ibañez del Campo",
+      "cantidad_toneladas": 25769.739555,
+      "residuos_per_capita": 5.01649592271754
+    },
+    {
+      "comuna": "Guaitecas",
+      "Población censada": 1598,
+      "latitud": -43.88332964,
+      "longitud": -73.75000172,
+      "region": "Aysén del Gral. Carlos Ibañez del Campo",
+      "cantidad_toneladas": 1660.94446,
+      "residuos_per_capita": 1.039389524405507
+    },
+    {
+      "comuna": "Chile Chico",
+      "Población censada": 4905,
+      "latitud": -46.5412551,
+      "longitud": -71.7247134,
+      "region": "Aysén del Gral. Carlos Ibañez del Campo",
+      "cantidad_toneladas": 1162.64,
+      "residuos_per_capita": 0.2370316004077472
+    },
+    {
+      "comuna": "Punta Arenas",
+      "Población censada": 132363,
+      "latitud": -53.163075,
+      "longitud": -70.9033806,
+      "region": "Magallanes y de la Antártica Chilena",
+      "cantidad_toneladas": 47818.9299993,
+      "residuos_per_capita": 0.3612711256113869
+    },
+    {
+      "comuna": "Río Verde",
+      "Población censada": 102,
+      "latitud": -52.66541353,
+      "longitud": -72.1771698,
+      "region": "Magallanes y de la Antártica Chilena",
+      "cantidad_toneladas": 2191.0476,
+      "residuos_per_capita": 21.48085882352941
+    },
+    {
+      "comuna": "San Gregorio",
+      "Población censada": 241,
+      "latitud": -52.39774522,
+      "longitud": -69.75749617,
+      "region": "Magallanes y de la Antártica Chilena",
+      "cantidad_toneladas": 1111.37,
+      "residuos_per_capita": 4.611493775933609
+    },
+    {
+      "comuna": "Porvenir",
+      "Población censada": 6809,
+      "latitud": -53.29065587,
+      "longitud": -70.38887225,
+      "region": "Magallanes y de la Antártica Chilena",
+      "cantidad_toneladas": 13434.2023,
+      "residuos_per_capita": 1.9730066529593187
+    },
+    {
+      "comuna": "Primavera",
+      "Población censada": 431,
+      "latitud": -52.77201703,
+      "longitud": -69.28920925,
+      "region": "Magallanes y de la Antártica Chilena",
+      "cantidad_toneladas": 1206.03,
+      "residuos_per_capita": 2.798213457076566
+    },
+    {
+      "comuna": "Natales",
+      "Población censada": 24152,
+      "latitud": -51.7585303,
+      "longitud": -72.8936236,
+      "region": "Magallanes y de la Antártica Chilena",
+      "cantidad_toneladas": 27564.83257,
+      "residuos_per_capita": 1.1413064164458429
+    },
+    {
+      "comuna": "Torres del Paine",
+      "Población censada": 203,
+      "latitud": -51.23338613,
+      "longitud": -72.97921254,
+      "region": "Magallanes y de la Antártica Chilena",
+      "cantidad_toneladas": 398,
+      "residuos_per_capita": 1.9605911330049262
+    }
+  ]
