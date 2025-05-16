@@ -1,4 +1,3 @@
-
 // Con esta funcion iniciamos la carga del mapa
 function iniciarMapa() {
     Promise.all([
@@ -19,14 +18,37 @@ function iniciarMapa() {
   
   // Crear el dataset para el choropleth
   function crearDataChoropleth(geojson, datos) {
+    // Población por región (2024)
+    const poblacion = [
+      { region: "Región de Antofagasta", poblacion: 635416 },
+      { region: "Región de La Araucanía", poblacion: 1010423 },
+      { region: "Región de Arica y Parinacota", poblacion: 244569 },
+      { region: "Región de Atacama", poblacion: 299180 },
+      { region: "Región de Aysén del Gral.Ibañez del Campo", poblacion: 100745 },
+      { region: "Región del Bío-Bío", poblacion: 1613059 },
+      { region: "Región de Coquimbo", poblacion: 832864 },
+      { region: "Región del Libertador Bernardo O'Higgins", poblacion: 987228 },
+      { region: "Región de Los Lagos", poblacion: 890284 },
+      { region: "Región de Los Ríos", poblacion: 398230 },
+      { region: "Región de Magallanes y Antártica Chilena", poblacion: 166537 },
+      { region: "Región del Maule", poblacion: 1123008 },
+      { region: "Región Metropolitana de Santiago", poblacion: 7400741 },
+      { region: "Región de Tarapacá", poblacion: 369806 },
+      { region: "Región de Valparaíso", poblacion: 1896053 },
+      { region: "Región de Ñuble", poblacion: 512289 }
+    ];
+    // Calcular residuos per cápita por región
     const regiones = datos.map(r => r.region);
     const toneladas = datos.map(r => r.toneladas);
-  
+    const residuosPerCapita = regiones.map((region, i) => {
+      const pob = poblacion.find(p => p.region === region)?.poblacion || 1;
+      return toneladas[i] / pob;
+    });
     return [{
       type: "choropleth",
       geojson: geojson,
       locations: regiones,
-      z: toneladas,
+      z: residuosPerCapita,
       featureidkey: "properties.Region",
       colorscale: [
         [0, "#f5c08f"],
@@ -43,7 +65,7 @@ function iniciarMapa() {
         [1, "#4b2807"]
       ],
       zmin: 0,
-      zmax: 3000000,
+      zmax: Math.max(...residuosPerCapita),
       marker: {
         line: {
           color: "black",
@@ -77,12 +99,20 @@ function iniciarMapa() {
       const point = eventData.points[0];
       const region = point.location;
       const valor = point.z;
-      obtenerInfoComunas(region); // Aqui van nuestras funciones ‼️
-      actualizarBarra(valor, 3000000, 0, 200)
+      // Oculta el top 5 y muestra el gráfico de comunas solo si hay hover sobre una región
+      document.getElementById('top5-comunas').style.display = 'none';
+      document.getElementById('grafico-comunas').style.display = 'block';
+      obtenerInfoComunas(region);
+      const residuo = 250; // en kg
+      actualizarBarra(residuo, 500, 0, 300);
     });
-  
+
     graphDiv.on('plotly_unhover', function() {
-      document.getElementById("hover-info").innerHTML = '<div id="grafico-comunas" style="width:400px; height:300px;"></div>';
+      // Al salir de la región, muestra el top 5 y oculta el gráfico de comunas
+      document.getElementById('top5-comunas').style.display = 'block';
+      document.getElementById('grafico-comunas').style.display = 'none';
+      // Limpia el gráfico de comunas
+      Plotly.purge('grafico-comunas');
     });
 
     const sound = new Tone.Player("music/sound.mp3").toDestination();
@@ -112,36 +142,57 @@ function iniciarMapa() {
   
   function grafico_barras(id, comunas, residuos) {
     const graficoDiv = document.getElementById(id);
-  
     if (!graficoDiv) {
       console.error('No se encontró el contenedor con id: ' + id);
       return;
     }
   
-    // Mostrar el contenedor si estaba oculto
+    // Determinar el índice del valor máximo
+    const maxIndex = residuos.indexOf(Math.max(...residuos));
+  
+    // Crear un arreglo de colores: todos grises excepto el máximo en rojo
+    const colores = residuos.map((_, i) => i === maxIndex ? '#d62828' : '#808080');
+  
     graficoDiv.style.display = 'block';
-  
-    // Limpiar gráfico anterior si existe
     Plotly.purge(id);
-  
-    // Crear nuevo gráfico
     Plotly.newPlot(id, [{
       x: comunas,
       y: residuos,
       type: 'bar',
-      name: 'Residuos per cápita'
+      name: 'Residuos per cápita',
+      marker: {
+        color: colores,
+        line: { color: '#333', width: 1 }
+      },
+      hoverlabel: { bgcolor: '#fff', font: { color: '#000' } }
     }], {
       title: 'Residuos per cápita por comuna',
-      margin: { t: 100 }
-    });
+      margin: { t: 100 },
+      plot_bgcolor: '#fff',
+      paper_bgcolor: '#fff',
+      font: { color: '#222', family: 'Arial', size: 14 },
+      xaxis: { showgrid: false, zeroline: false },
+      yaxis: { showgrid: false, zeroline: false },
+      showlegend: false
+    }, { displayModeBar: false });
   }
+  
 
   function actualizarBarra(valor, maximo, minimo, anchoTotal) {
-    const clamped = Math.max(0, Math.min(maximo, valor));
-    const ancho = (clamped - minimo) / (maximo - minimo) * anchoTotal;
-    console.log(`Actualizando barra: valor = ${valor}, ancho = ${ancho}`);
-    document.getElementById("barra-relleno").setAttribute("width", ancho);}
+    // Limitar el valor dentro del rango
+    const clamped = Math.max(minimo, Math.min(maximo, valor));
+    
+    // Normalizar el valor a un porcentaje del ancho total
+    const porcentaje = (clamped - minimo) / (maximo - minimo);
+    const ancho = porcentaje * anchoTotal;
+  
+    // Debug
+    console.log(`Valor: ${valor}, Normalizado: ${porcentaje}, Ancho en px: ${ancho}`);
+  
+    // Actualizar el ancho del rectángulo
+    document.getElementById("barra-relleno").setAttribute("width", ancho);
+  }
+  
   
   // Inicia el mapa solo cuando el DOM esté cargado
   window.addEventListener('DOMContentLoaded', iniciarMapa);
-  

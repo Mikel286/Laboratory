@@ -1,0 +1,348 @@
+﻿Código región;Región;Código provincia;Provincia;Código comuna;COMUNA;Población censada;Hombres;Mujeres;Razón hombre-mujer;% personas de 65 años o más
+0;País;0;País;0;País;18.480.432;8.967.033;9.513.399;94,3;14,0%
+1;Tarapacá;11;Iquique;1101;Iquique;199.587;98.413;101.174;97,3;12,1%
+1;Tarapacá;11;Iquique;1107;Alto Hospicio;142.086;70.649;71.437;98,9;5,4%
+1;Tarapacá;14;Del Tamarugal;1401;Pozo Almonte;16.878;8.667;8.211;105,6;10,1%
+1;Tarapacá;14;Del Tamarugal;1402;Camiña;1.335;648;687;94,3;17,7%
+1;Tarapacá;14;Del Tamarugal;1403;Colchane;790;389;401;97,0;16,8%
+1;Tarapacá;14;Del Tamarugal;1404;Huara;2.858;1.484;1.374;108,0;15,4%
+1;Tarapacá;14;Del Tamarugal;1405;Pica;6.272;3.093;3.179;97,3;14,0%
+2;Antofagasta;21;Antofagasta;2101;Antofagasta;401.096;197.979;203.117;97,5;9,7%
+2;Antofagasta;21;Antofagasta;2102;Mejillones;14.084;7.021;7.063;99,4;7,9%
+2;Antofagasta;21;Antofagasta;2103;Sierra Gorda;1.472;707;765;92,4;6,9%
+2;Antofagasta;21;Antofagasta;2104;Taltal;12.097;6.063;6.034;100,5;13,0%
+2;Antofagasta;22;El Loa;2201;Calama;166.334;82.269;84.065;97,9;9,0%
+2;Antofagasta;22;El Loa;2202;Ollagüe;256;122;134;91,0;13,7%
+2;Antofagasta;22;El Loa;2203;San Pedro de Atacama;9.843;4.768;5.075;94,0;8,5%
+2;Antofagasta;23;Tocopilla;2301;Tocopilla;25.400;12.589;12.811;98,3;13,2%
+2;Antofagasta;23;Tocopilla;2302;María Elena;4.834;2.477;2.357;105,1;9,3%
+3;Atacama;31;Copiapó;3101;Copiapó;168.831;83.536;85.295;97,9;11,1%
+3;Atacama;31;Copiapó;3102;Caldera;18.805;9.396;9.409;99,9;14,4%
+3;Atacama;31;Copiapó;3103;Tierra Amarilla;11.846;6.070;5.776;105,1;11,4%
+3;Atacama;32;Chañaral;3201;Chañaral;12.345;6.219;6.126;101,5;14,9%
+3;Atacama;32;Chañaral;3202;Diego de Almagro;11.397;5.672;5.725;99,1;10,3%
+3;Atacama;33;Huasco;3301;Vallenar;54.222;26.541;27.681;95,9;14,8%
+3;Atacama;33;Huasco;3302;Alto del Carmen;4.788;2.454;2.334;105,1;21,4%
+3;Atacama;33;Huasco;3303;Freirina;7.577;3.743;3.834;97,6;15,6%
+3;Atacama;33;Huasco;3304;Huasco;9.369;4.632;4.737;97,8;17,4%
+4;Coquimbo;41;Elqui;4101;La Serena;250.141;120.407;129.734;92,8;13,2%
+4;Coquimbo;41;Elqui;4102;Coquimbo;263.719;127.926;135.793;94,2;13,1%
+4;Coquimbo;41;Elqui;4103;Andacollo;11.566;5.800;5.766;100,6;16,9%
+4;Coquimbo;41;Elqui;4104;La Higuera;4.335;2.299;2.036;112,9;18,1%
+4;Coquimbo;41;Elqui;4105;Paiguano;4.649;2.310;2.339;98,8;17,4%
+4;Coquimbo;41;Elqui;4106;Vicuña;28.047;13.738;14.309;96,0;15,6%
+4;Coquimbo;42;Choapa;4201;Illapel;32.009;15.548;16.461;94,5;17,0%
+4;Coquimbo;42;Choapa;4202;Canela;9.639;4.869;4.770;102,1;23,4%
+4;Coquimbo;42;Choapa;4203;Los Vilos;22.879;11.281;11.598;97,3;16,1%
+4;Coquimbo;42;Choapa;4204;Salamanca;27.823;13.772;14.051;98,0;16,0%
+4;Coquimbo;43;Limarí;4301;Ovalle;118.696;57.311;61.385;93,4;14,6%
+4;Coquimbo;43;Limarí;4302;Combarbalá;12.954;6.305;6.649;94,8;22,5%
+4;Coquimbo;43;Limarí;4303;Monte Patria;29.997;14.703;15.294;96,1;16,8%
+4;Coquimbo;43;Limarí;4304;Punitaqui;12.076;5.975;6.101;97,9;17,6%
+4;Coquimbo;43;Limarí;4305;Río Hurtado;4.334;2.153;2.181;98,7;24,1%
+5;Valparaíso;51;Valparaíso;5101;Valparaíso;284.938;138.494;146.444;94,6;16,3%
+5;Valparaíso;51;Valparaíso;5102;Casablanca;29.876;14.582;15.294;95,3;14,8%
+5;Valparaíso;51;Valparaíso;5103;Concón;48.294;23.153;25.141;92,1;15,3%
+5;Valparaíso;51;Valparaíso;5104;Juan Fernández;904;458;446;102,7;13,9%
+5;Valparaíso;51;Valparaíso;5105;Puchuncaví;22.539;11.156;11.383;98,0;18,1%
+5;Valparaíso;51;Valparaíso;5107;Quintero;35.754;17.507;18.247;95,9;16,3%
+5;Valparaíso;51;Valparaíso;5109;Viña del Mar;334.871;158.878;175.993;90,3;17,7%
+5;Valparaíso;52;Isla de Pascua;5201;Isla de Pascua;4.800;2.351;2.449;96,0;8,4%
+5;Valparaíso;53;Los Andes;5301;Los Andes;63.440;30.469;32.971;92,4;15,4%
+5;Valparaíso;53;Los Andes;5302;Calle Larga;16.597;8.139;8.458;96,2;13,2%
+5;Valparaíso;53;Los Andes;5303;Rinconada;11.855;5.851;6.004;97,5;13,3%
+5;Valparaíso;53;Los Andes;5304;San Esteban;20.112;9.835;10.277;95,7;14,3%
+5;Valparaíso;54;Petorca;5401;La Ligua;39.270;19.171;20.099;95,4;16,7%
+5;Valparaíso;54;Petorca;5402;Cabildo;20.015;9.860;10.155;97,1;16,0%
+5;Valparaíso;54;Petorca;5403;Papudo;7.561;3.766;3.795;99,2;17,5%
+5;Valparaíso;54;Petorca;5404;Petorca;10.206;5.030;5.176;97,2;18,1%
+5;Valparaíso;54;Petorca;5405;Zapallar;7.980;3.902;4.078;95,7;18,5%
+5;Valparaíso;55;Quillota;5501;Quillota;96.753;46.621;50.132;93,0;15,9%
+5;Valparaíso;55;Quillota;5502;Calera;50.631;24.513;26.118;93,9;16,0%
+5;Valparaíso;55;Quillota;5503;Hijuelas;19.286;9.518;9.768;97,4;14,3%
+5;Valparaíso;55;Quillota;5504;La Cruz;24.939;11.993;12.946;92,6;12,3%
+5;Valparaíso;55;Quillota;5506;Nogales;22.136;10.849;11.287;96,1;16,9%
+5;Valparaíso;56;San Antonio;5601;San Antonio;96.770;46.972;49.798;94,3;15,1%
+5;Valparaíso;56;San Antonio;5602;Algarrobo;16.076;7.673;8.403;91,3;25,0%
+5;Valparaíso;56;San Antonio;5603;Cartagena;24.599;12.043;12.556;95,9;20,6%
+5;Valparaíso;56;San Antonio;5604;El Quisco;18.971;9.088;9.883;92,0;25,1%
+5;Valparaíso;56;San Antonio;5605;El Tabo;16.260;7.915;8.345;94,8;26,3%
+5;Valparaíso;56;San Antonio;5606;Santo Domingo;13.171;6.437;6.734;95,6;18,8%
+5;Valparaíso;57;San Felipe de Aconcagua;5701;San Felipe;80.413;38.921;41.492;93,8;13,9%
+5;Valparaíso;57;San Felipe de Aconcagua;5702;Catemu;13.760;6.728;7.032;95,7;16,7%
+5;Valparaíso;57;San Felipe de Aconcagua;5703;Llaillay;25.484;12.538;12.946;96,8;15,2%
+5;Valparaíso;57;San Felipe de Aconcagua;5704;Panquehue;7.269;3.582;3.687;97,2;15,1%
+5;Valparaíso;57;San Felipe de Aconcagua;5705;Putaendo;17.336;8.531;8.805;96,9;17,6%
+5;Valparaíso;57;San Felipe de Aconcagua;5706;Santa María;15.134;7.325;7.809;93,8;16,3%
+5;Valparaíso;58;Marga Marga;5801;Quilpué;162.559;77.149;85.410;90,3;17,7%
+5;Valparaíso;58;Marga Marga;5802;Limache;56.145;27.348;28.797;95,0;15,8%
+5;Valparaíso;58;Marga Marga;5803;Olmué;19.778;9.668;10.110;95,6;19,4%
+5;Valparaíso;58;Marga Marga;5804;Villa Alemana;139.571;65.629;73.942;88,8;15,6%
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6101;Rancagua;257.744;125.172;132.572;94,4;13,9%
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6102;Codegua;13.955;6.885;7.070;97,4;14,4%
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6103;Coinco;7.916;3.906;4.010;97,4;18,3%
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6104;Coltauco;21.373;10.653;10.720;99,4;16,1%
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6105;Doñihue;21.925;10.706;11.219;95,4;15,1%
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6106;Graneros;35.938;17.613;18.325;96,1;12,2%
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6107;Las Cabras;27.554;13.900;13.654;101,8;16,2%
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6108;Machalí;60.875;29.507;31.368;94,1;11,0%
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6109;Malloa;13.882;6.950;6.932;100,3;17,5%
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6110;Mostazal;27.394;13.521;13.873;97,5;14,5%
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6111;Olivar;13.901;6.870;7.031;97,7;15,0%
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6112;Peumo;14.243;7.115;7.128;99,8;16,6%
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6113;Pichidegua;20.363;10.152;10.211;99,4;18,2%
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6114;Quinta de Tilcoco;13.558;6.648;6.910;96,2;16,3%
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6115;Rengo;63.620;30.925;32.695;94,6;13,8%
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6116;Requínoa;29.508;14.588;14.920;97,8;13,1%
+6;Libertador General Bernardo O'Higgins;61;Cachapoal;6117;San Vicente;49.559;24.340;25.219;96,5;17,2%
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6201;Pichilemu;19.847;9.744;10.103;96,4;16,4%
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6202;La Estrella;4.609;2.343;2.266;103,4;20,5%
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6203;Litueche;8.852;4.443;4.409;100,8;18,9%
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6204;Marchihue;8.715;4.347;4.368;99,5;19,1%
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6205;Navidad;8.885;4.521;4.364;103,6;22,1%
+6;Libertador General Bernardo O'Higgins;62;Cardenal Caro;6206;Paredones;7.228;3.667;3.561;103,0;21,9%
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6301;San Fernando;75.585;36.247;39.338;92,1;14,8%
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6302;Chépica;15.668;7.737;7.931;97,6;18,5%
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6303;Chimbarongo;37.258;18.467;18.791;98,3;15,2%
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6304;Lolol;7.791;3.926;3.865;101,6;19,3%
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6305;Nancagua;18.723;9.222;9.501;97,1;15,2%
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6306;Palmilla;13.060;6.547;6.513;100,5;17,1%
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6307;Peralillo;12.493;6.211;6.282;98,9;17,2%
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6308;Placilla;9.438;4.739;4.699;100,9;16,5%
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6309;Pumanque;4.559;2.299;2.260;101,7;22,6%
+6;Libertador General Bernardo O'Higgins;63;Colchagua;6310;Santa Cruz;41.209;20.037;21.172;94,6;15,6%
+7;Maule;71;Talca;7101;Talca;232.131;110.996;121.135;91,6;14,7%
+7;Maule;71;Talca;7102;Constitución;47.004;23.154;23.850;97,1;14,0%
+7;Maule;71;Talca;7103;Curepto;9.519;4.876;4.643;105,0;24,0%
+7;Maule;71;Talca;7104;Empedrado;3.990;2.046;1.944;105,2;15,9%
+7;Maule;71;Talca;7105;Maule;61.081;29.505;31.576;93,4;8,4%
+7;Maule;71;Talca;7106;Pelarco;9.229;4.592;4.637;99,0;17,4%
+7;Maule;71;Talca;7107;Pencahue;9.181;4.641;4.540;102,2;17,5%
+7;Maule;71;Talca;7108;Río Claro;14.276;7.195;7.081;101,6;17,3%
+7;Maule;71;Talca;7109;San Clemente;47.380;23.424;23.956;97,8;15,3%
+7;Maule;71;Talca;7110;San Rafael;11.230;5.552;5.678;97,8;15,6%
+7;Maule;72;Cauquenes;7201;Cauquenes;42.798;20.295;22.503;90,2;18,7%
+7;Maule;72;Cauquenes;7202;Chanco;9.446;4.698;4.748;98,9;18,5%
+7;Maule;72;Cauquenes;7203;Pelluhue;8.578;4.158;4.420;94,1;20,0%
+7;Maule;73;Curicó;7301;Curicó;159.968;77.105;82.863;93,1;13,7%
+7;Maule;73;Curicó;7302;Hualañé;10.775;5.392;5.383;100,2;20,0%
+7;Maule;73;Curicó;7303;Licantén;6.892;3.372;3.520;95,8;18,7%
+7;Maule;73;Curicó;7304;Molina;48.949;23.906;25.043;95,5;15,5%
+7;Maule;73;Curicó;7305;Rauco;11.266;5.613;5.653;99,3;16,7%
+7;Maule;73;Curicó;7306;Romeral;17.233;8.448;8.785;96,2;14,0%
+7;Maule;73;Curicó;7307;Sagrada Familia;19.427;9.751;9.676;100,8;16,0%
+7;Maule;73;Curicó;7308;Teno;30.113;14.982;15.131;99,0;16,0%
+7;Maule;73;Curicó;7309;Vichuquén;4.716;2.426;2.290;105,9;20,3%
+7;Maule;74;Linares;7401;Linares;96.744;46.158;50.586;91,2;15,7%
+7;Maule;74;Linares;7402;Colbún;22.637;11.087;11.550;96,0;16,7%
+7;Maule;74;Linares;7403;Longaví;33.299;16.598;16.701;99,4;16,5%
+7;Maule;74;Linares;7404;Parral;45.323;21.848;23.475;93,1;17,1%
+7;Maule;74;Linares;7405;Retiro;22.310;11.082;11.228;98,7;17,1%
+7;Maule;74;Linares;7406;San Javier;49.559;23.732;25.827;91,9;15,3%
+7;Maule;74;Linares;7407;Villa Alegre;17.919;8.616;9.303;92,6;17,9%
+7;Maule;74;Linares;7408;Yerbas Buenas;20.035;10.007;10.028;99,8;15,6%
+8;Biobío;81;Concepción;8101;Concepción;230.375;110.985;119.390;93,0;14,8%
+8;Biobío;81;Concepción;8102;Coronel;123.648;59.274;64.374;92,1;12,7%
+8;Biobío;81;Concepción;8103;Chiguayante;85.822;40.464;45.358;89,2;15,3%
+8;Biobío;81;Concepción;8104;Florida;12.958;6.455;6.503;99,3;19,2%
+8;Biobío;81;Concepción;8105;Hualqui;25.795;12.388;13.407;92,4;14,1%
+8;Biobío;81;Concepción;8106;Lota;39.980;19.342;20.638;93,7;17,2%
+8;Biobío;81;Concepción;8107;Penco;48.971;23.370;25.601;91,3;15,4%
+8;Biobío;81;Concepción;8108;San Pedro de La paz;150.992;72.262;78.730;91,8;10,9%
+8;Biobío;81;Concepción;8109;Santa Juana;14.947;7.203;7.744;93,0;16,7%
+8;Biobío;81;Concepción;8110;Talcahuano;147.322;70.548;76.774;91,9;16,2%
+8;Biobío;81;Concepción;8111;Tomé;56.907;26.964;29.943;90,1;17,7%
+8;Biobío;81;Concepción;8112;Hualpén;87.731;41.521;46.210;89,9;15,9%
+8;Biobío;82;Arauco;8201;Lebu;25.246;12.333;12.913;95,5;14,3%
+8;Biobío;82;Arauco;8202;Arauco;37.163;18.128;19.035;95,2;14,4%
+8;Biobío;82;Arauco;8203;Cañete;34.640;16.602;18.038;92,0;14,9%
+8;Biobío;82;Arauco;8204;Contulmo;5.905;2.925;2.980;98,2;17,8%
+8;Biobío;82;Arauco;8205;Curanilahue;31.119;15.127;15.992;94,6;15,1%
+8;Biobío;82;Arauco;8206;Los Álamos;21.950;10.581;11.369;93,1;13,4%
+8;Biobío;82;Arauco;8207;Tirúa;10.208;5.023;5.185;96,9;12,2%
+8;Biobío;83;Biobío;8301;Los Ángeles;219.441;105.436;114.005;92,5;13,4%
+8;Biobío;83;Biobío;8302;Antuco;4.373;2.125;2.248;94,5;19,8%
+8;Biobío;83;Biobío;8303;Cabrero;31.256;15.264;15.992;95,4;14,8%
+8;Biobío;83;Biobío;8304;Laja;23.706;11.451;12.255;93,4;16,6%
+8;Biobío;83;Biobío;8305;Mulchén;29.036;14.093;14.943;94,3;16,3%
+8;Biobío;83;Biobío;8306;Nacimiento;26.140;12.790;13.350;95,8;15,3%
+8;Biobío;83;Biobío;8307;Negrete;10.723;5.273;5.450;96,8;15,4%
+8;Biobío;83;Biobío;8308;Quilaco;4.440;2.210;2.230;99,1;21,9%
+8;Biobío;83;Biobío;8309;Quilleco;9.700;4.826;4.874;99,0;20,4%
+8;Biobío;83;Biobío;8310;San Rosendo;3.575;1.753;1.822;96,2;19,4%
+8;Biobío;83;Biobío;8311;Santa Bárbara;14.075;6.847;7.228;94,7;17,0%
+8;Biobío;83;Biobío;8312;Tucapel;15.729;7.568;8.161;92,7;18,7%
+8;Biobío;83;Biobío;8313;Yumbel;23.170;11.359;11.811;96,2;19,8%
+8;Biobío;83;Biobío;8314;Alto Biobío;6.016;3.005;3.011;99,8;9,2%
+9;La Araucanía;91;Cautín;9101;Temuco;292.518;138.163;154.355;89,5;13,3%
+9;La Araucanía;91;Cautín;9102;Carahue;24.957;12.208;12.749;95,8;17,8%
+9;La Araucanía;91;Cautín;9103;Cunco;19.177;9.368;9.809;95,5;20,1%
+9;La Araucanía;91;Cautín;9104;Curarrehue;7.733;3.901;3.832;101,8;14,6%
+9;La Araucanía;91;Cautín;9105;Freire;26.164;13.029;13.135;99,2;17,5%
+9;La Araucanía;91;Cautín;9106;Galvarino;12.710;6.360;6.350;100,2;16,2%
+9;La Araucanía;91;Cautín;9107;Gorbea;14.148;6.778;7.370;92,0;20,6%
+9;La Araucanía;91;Cautín;9108;Lautaro;41.936;20.197;21.739;92,9;13,7%
+9;La Araucanía;91;Cautín;9109;Loncoche;25.158;12.201;12.957;94,2;18,1%
+9;La Araucanía;91;Cautín;9110;Melipeuco;6.796;3.342;3.454;96,8;18,7%
+9;La Araucanía;91;Cautín;9111;Nueva Imperial;33.988;16.546;17.442;94,9;17,0%
+9;La Araucanía;91;Cautín;9112;Padre Las Casas;80.656;38.960;41.696;93,4;12,4%
+9;La Araucanía;91;Cautín;9113;Perquenco;7.438;3.631;3.807;95,4;16,0%
+9;La Araucanía;91;Cautín;9114;Pitrufquén;27.041;12.988;14.053;92,4;16,9%
+9;La Araucanía;91;Cautín;9115;Pucón;32.321;15.767;16.554;95,2;13,5%
+9;La Araucanía;91;Cautín;9116;Saavedra;12.877;6.275;6.602;95,0;19,3%
+9;La Araucanía;91;Cautín;9117;Teodoro Schmidt;15.639;7.758;7.881;98,4;20,0%
+9;La Araucanía;91;Cautín;9118;Toltén;10.041;4.941;5.100;96,9;18,6%
+9;La Araucanía;91;Cautín;9119;Vilcún;31.575;15.386;16.189;95,0;13,7%
+9;La Araucanía;91;Cautín;9120;Villarrica;67.737;32.807;34.930;93,9;14,5%
+9;La Araucanía;91;Cautín;9121;Cholchol;13.167;6.578;6.589;99,8;15,6%
+9;La Araucanía;92;Malleco;9201;Angol;53.022;25.143;27.879;90,2;15,5%
+9;La Araucanía;92;Malleco;9202;Collipulli;24.303;11.731;12.572;93,3;15,4%
+9;La Araucanía;92;Malleco;9203;Curacautín;18.536;8.944;9.592;93,2;19,0%
+9;La Araucanía;92;Malleco;9204;Ercilla;7.730;3.750;3.980;94,2;15,8%
+9;La Araucanía;92;Malleco;9205;Lonquimay;10.247;5.125;5.122;100,1;15,5%
+9;La Araucanía;92;Malleco;9206;Los Sauces;7.348;3.636;3.712;98,0;17,9%
+9;La Araucanía;92;Malleco;9207;Lumaco;9.253;4.691;4.562;102,8;17,1%
+9;La Araucanía;92;Malleco;9208;Purén;12.184;5.793;6.391;90,6;17,2%
+9;La Araucanía;92;Malleco;9209;Renaico;10.686;5.150;5.536;93,0;15,5%
+9;La Araucanía;92;Malleco;9210;Traiguén;18.873;8.971;9.902;90,6;18,6%
+9;La Araucanía;92;Malleco;9211;Victoria;34.464;16.600;17.864;92,9;17,0%
+10;Los Lagos;101;Llanquihue;10101;Puerto Montt;277.040;136.544;140.496;97,2;10,3%
+10;Los Lagos;101;Llanquihue;10102;Calbuco;36.474;18.374;18.100;101,5;14,8%
+10;Los Lagos;101;Llanquihue;10103;Cochamó;4.199;2.213;1.986;111,4;19,7%
+10;Los Lagos;101;Llanquihue;10104;Fresia;12.320;6.102;6.218;98,1;17,8%
+10;Los Lagos;101;Llanquihue;10105;Frutillar;22.554;11.034;11.520;95,8;13,8%
+10;Los Lagos;101;Llanquihue;10106;Los Muermos;17.162;8.620;8.542;100,9;18,0%
+10;Los Lagos;101;Llanquihue;10107;Llanquihue;18.088;8.826;9.262;95,3;14,9%
+10;Los Lagos;101;Llanquihue;10108;Maullín;15.063;7.651;7.412;103,2;18,8%
+10;Los Lagos;101;Llanquihue;10109;Puerto Varas;52.942;25.814;27.128;95,2;11,9%
+10;Los Lagos;102;Chiloé;10201;Castro;46.997;22.832;24.165;94,5;12,5%
+10;Los Lagos;102;Chiloé;10202;Ancud;40.949;19.981;20.968;95,3;16,2%
+10;Los Lagos;102;Chiloé;10203;Chonchi;16.078;7.896;8.182;96,5;13,5%
+10;Los Lagos;102;Chiloé;10204;Curaco de Vélez;3.662;1.774;1.888;94,0;18,2%
+10;Los Lagos;102;Chiloé;10205;Dalcahue;14.894;7.403;7.491;98,8;13,0%
+10;Los Lagos;102;Chiloé;10206;Puqueldón;4.048;2.021;2.027;99,7;18,3%
+10;Los Lagos;102;Chiloé;10207;Queilén;5.690;2.859;2.831;101,0;15,7%
+10;Los Lagos;102;Chiloé;10208;Quellón;28.460;14.339;14.121;101,5;9,3%
+10;Los Lagos;102;Chiloé;10209;Quemchi;8.409;4.239;4.170;101,7;18,2%
+10;Los Lagos;102;Chiloé;10210;Quinchao;7.678;3.727;3.951;94,3;18,2%
+10;Los Lagos;103;Osorno;10301;Osorno;166.455;79.484;86.971;91,4;14,5%
+10;Los Lagos;103;Osorno;10302;Puerto Octay;8.865;4.517;4.348;103,9;16,7%
+10;Los Lagos;103;Osorno;10303;Purranque;19.542;9.515;10.027;94,9;18,0%
+10;Los Lagos;103;Osorno;10304;Puyehue;11.712;5.782;5.930;97,5;16,7%
+10;Los Lagos;103;Osorno;10305;Río Negro;13.874;6.840;7.034;97,2;18,6%
+10;Los Lagos;103;Osorno;10306;San Juan de la Costa;7.776;4.042;3.734;108,2;21,7%
+10;Los Lagos;103;Osorno;10307;San Pablo;10.883;5.357;5.526;96,9;18,9%
+10;Los Lagos;104;Palena;10401;Chaitén;4.025;2.085;1.940;107,5;15,5%
+10;Los Lagos;104;Palena;10402;Futaleufú;3.062;1.542;1.520;101,4;13,4%
+10;Los Lagos;104;Palena;10403;Hualaihué;9.480;4.910;4.570;107,4;13,7%
+10;Los Lagos;104;Palena;10404;Palena;1.903;946;957;98,9;18,9%
+11;Aysén del General Carlos Ibáñez del Campo;111;Coyhaique;11101;Coyhaique;57.823;28.170;29.653;95,0;12,4%
+11;Aysén del General Carlos Ibáñez del Campo;111;Coyhaique;11102;Lago Verde;779;427;352;121,3;20,4%
+11;Aysén del General Carlos Ibáñez del Campo;112;Aysén;11201;Aysén;23.170;11.522;11.648;98,9;11,9%
+11;Aysén del General Carlos Ibáñez del Campo;112;Aysén;11202;Cisnes;5.137;2.598;2.539;102,3;11,8%
+11;Aysén del General Carlos Ibáñez del Campo;112;Aysén;11203;Guaitecas;1.598;857;741;115,7;10,0%
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11301;Cochrane;3.458;1.779;1.679;106,0;12,8%
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11302;O'Higgins;647;331;316;104,7;8,5%
+11;Aysén del General Carlos Ibáñez del Campo;113;Capitán Prat;11303;Tortel;505;269;236;114,0;6,5%
+11;Aysén del General Carlos Ibáñez del Campo;114;General Carrera;11401;Chile Chico;4.905;2.478;2.427;102,1;16,3%
+11;Aysén del General Carlos Ibáñez del Campo;114;General Carrera;11402;Río Ibáñez;2.723;1.410;1.313;107,4;18,7%
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12101;Punta Arenas;132.363;65.028;67.335;96,6;14,9%
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12102;Laguna Blanca;269;187;82;228,0;11,2%
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12103;Río Verde;102;72;30;240,0;16,7%
+12;Magallanes y de la Antártica Chilena;121;Magallanes;12104;San Gregorio;241;151;90;167,8;15,4%
+12;Magallanes y de la Antártica Chilena;122;Antártica Chilena;12201;Cabo de Hornos;1.750;881;869;101,4;5,5%
+12;Magallanes y de la Antártica Chilena;122;Antártica Chilena;12202;Antártica;60;56;4;1400,0;0,0%
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12301;Porvenir;6.809;3.592;3.217;111,7;11,6%
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12302;Primavera;431;237;194;122,2;13,2%
+12;Magallanes y de la Antártica Chilena;123;Tierra del Fuego;12303;Timaukel;157;95;62;153,2;7,0%
+12;Magallanes y de la Antártica Chilena;124;Última Esperanza;12401;Natales;24.152;12.064;12.088;99,8;14,4%
+12;Magallanes y de la Antártica Chilena;124;Última Esperanza;12402;Torres del Paine;203;118;85;138,8;12,3%
+13;Metropolitana de Santiago;131;Santiago;13101;Santiago;438.856;223.237;215.619;103,5;8,1%
+13;Metropolitana de Santiago;131;Santiago;13102;Cerrillos;85.041;41.216;43.825;94,0;13,0%
+13;Metropolitana de Santiago;131;Santiago;13103;Cerro Navia;127.250;62.329;64.921;96,0;14,7%
+13;Metropolitana de Santiago;131;Santiago;13104;Conchalí;121.587;59.122;62.465;94,6;15,8%
+13;Metropolitana de Santiago;131;Santiago;13105;El Bosque;155.257;75.720;79.537;95,2;15,5%
+13;Metropolitana de Santiago;131;Santiago;13106;Estación Central;181.049;88.630;92.419;95,9;10,7%
+13;Metropolitana de Santiago;131;Santiago;13107;Huechuraba;101.808;49.479;52.329;94,6;11,3%
+13;Metropolitana de Santiago;131;Santiago;13108;Independencia;116.943;56.916;60.027;94,8;11,0%
+13;Metropolitana de Santiago;131;Santiago;13109;La Cisterna;103.157;49.154;54.003;91,0;14,3%
+13;Metropolitana de Santiago;131;Santiago;13110;La Florida;374.836;178.461;196.375;90,9;16,2%
+13;Metropolitana de Santiago;131;Santiago;13111;La Granja;112.022;54.758;57.264;95,6;16,3%
+13;Metropolitana de Santiago;131;Santiago;13112;La Pintana;175.421;85.240;90.181;94,5;12,7%
+13;Metropolitana de Santiago;131;Santiago;13113;La Reina;89.870;42.260;47.610;88,8;17,9%
+13;Metropolitana de Santiago;131;Santiago;13114;Las Condes;296.134;137.984;158.150;87,2;18,1%
+13;Metropolitana de Santiago;131;Santiago;13115;Lo Barnechea;112.620;53.609;59.011;90,8;11,4%
+13;Metropolitana de Santiago;131;Santiago;13116;Lo Espejo;87.295;43.095;44.200;97,5;15,6%
+13;Metropolitana de Santiago;131;Santiago;13117;Lo Prado;91.290;44.300;46.990;94,3;16,5%
+13;Metropolitana de Santiago;131;Santiago;13118;Macul;123.800;58.479;65.321;89,5;16,1%
+13;Metropolitana de Santiago;131;Santiago;13119;Maipú;503.635;240.903;262.732;91,7;14,1%
+13;Metropolitana de Santiago;131;Santiago;13120;Ñuñoa;241.467;111.613;129.854;86,0;14,8%
+13;Metropolitana de Santiago;131;Santiago;13121;Pedro Aguirre Cerda;96.062;47.073;48.989;96,1;18,3%
+13;Metropolitana de Santiago;131;Santiago;13122;Peñalolén;236.478;114.260;122.218;93,5;13,3%
+13;Metropolitana de Santiago;131;Santiago;13123;Providencia;143.974;67.329;76.645;87,8;16,0%
+13;Metropolitana de Santiago;131;Santiago;13124;Pudahuel;227.820;109.673;118.147;92,8;12,2%
+13;Metropolitana de Santiago;131;Santiago;13125;Quilicura;205.624;99.649;105.975;94,0;8,7%
+13;Metropolitana de Santiago;131;Santiago;13126;Quinta Normal;129.351;63.130;66.221;95,3;13,3%
+13;Metropolitana de Santiago;131;Santiago;13127;Recoleta;154.615;76.020;78.595;96,7;14,6%
+13;Metropolitana de Santiago;131;Santiago;13128;Renca;143.622;69.985;73.637;95,0;12,8%
+13;Metropolitana de Santiago;131;Santiago;13129;San Joaquín;95.602;45.983;49.619;92,7;16,5%
+13;Metropolitana de Santiago;131;Santiago;13130;San Miguel;150.829;71.229;79.600;89,5;11,5%
+13;Metropolitana de Santiago;131;Santiago;13131;San Ramón;76.002;37.417;38.585;97,0;16,8%
+13;Metropolitana de Santiago;131;Santiago;13132;Vitacura;86.420;39.914;46.506;85,8;19,2%
+13;Metropolitana de Santiago;132;Cordillera;13201;Puente Alto;568.086;273.928;294.158;93,1;11,7%
+13;Metropolitana de Santiago;132;Cordillera;13202;Pirque;29.060;14.399;14.661;98,2;13,7%
+13;Metropolitana de Santiago;132;Cordillera;13203;San José de Maipo;17.441;8.674;8.767;98,9;15,8%
+13;Metropolitana de Santiago;133;Chacabuco;13301;Colina;173.293;86.925;86.368;100,6;7,6%
+13;Metropolitana de Santiago;133;Chacabuco;13302;Lampa;145.160;72.328;72.832;99,3;6,7%
+13;Metropolitana de Santiago;133;Chacabuco;13303;Tiltil;19.742;9.940;9.802;101,4;13,7%
+13;Metropolitana de Santiago;134;Maipo;13401;San Bernardo;306.371;148.696;157.675;94,3;11,3%
+13;Metropolitana de Santiago;134;Maipo;13402;Buin;116.969;56.564;60.405;93,6;10,4%
+13;Metropolitana de Santiago;134;Maipo;13403;Calera de Tango;25.491;12.607;12.884;97,9;13,5%
+13;Metropolitana de Santiago;134;Maipo;13404;Paine;78.828;38.873;39.955;97,3;12,8%
+13;Metropolitana de Santiago;135;Melipilla;13501;Melipilla;136.325;66.759;69.566;96,0;14,2%
+13;Metropolitana de Santiago;135;Melipilla;13502;Alhué;7.768;3.863;3.905;98,9;13,0%
+13;Metropolitana de Santiago;135;Melipilla;13503;Curacaví;35.165;17.226;17.939;96,0;15,1%
+13;Metropolitana de Santiago;135;Melipilla;13504;María Pinto;15.352;7.559;7.793;97,0;15,4%
+13;Metropolitana de Santiago;135;Melipilla;13505;San Pedro;11.108;5.696;5.412;105,2;17,0%
+13;Metropolitana de Santiago;136;Talagante;13601;Talagante;76.429;37.488;38.941;96,3;12,9%
+13;Metropolitana de Santiago;136;Talagante;13602;El Monte;37.497;18.347;19.150;95,8;13,4%
+13;Metropolitana de Santiago;136;Talagante;13603;Isla de Maipo;39.274;19.401;19.873;97,6;13,1%
+13;Metropolitana de Santiago;136;Talagante;13604;Padre Hurtado;81.243;39.781;41.462;95,9;9,6%
+13;Metropolitana de Santiago;136;Talagante;13605;Peñaflor;94.402;45.612;48.790;93,5;12,8%
+14;Los Ríos;141;Valdivia;14101;Valdivia;170.043;81.660;88.383;92,4;14,2%
+14;Los Ríos;141;Valdivia;14102;Corral;5.501;2.746;2.755;99,7;19,1%
+14;Los Ríos;141;Valdivia;14103;Lanco;16.876;8.133;8.743;93,0;16,1%
+14;Los Ríos;141;Valdivia;14104;Los Lagos;21.431;10.596;10.835;97,8;15,7%
+14;Los Ríos;141;Valdivia;14105;Máfil;8.074;3.947;4.127;95,6;16,3%
+14;Los Ríos;141;Valdivia;14106;Mariquina;22.973;11.180;11.793;94,8;14,3%
+14;Los Ríos;141;Valdivia;14107;Paillaco;19.802;9.535;10.267;92,9;17,4%
+14;Los Ríos;141;Valdivia;14108;Panguipulli;35.098;17.044;18.054;94,4;15,6%
+14;Los Ríos;142;Ranco;14201;La Unión;38.907;18.865;20.042;94,1;16,7%
+14;Los Ríos;142;Ranco;14202;Futrono;15.635;7.615;8.020;95,0;14,6%
+14;Los Ríos;142;Ranco;14203;Lago Ranco;10.527;5.181;5.346;96,9;17,3%
+14;Los Ríos;142;Ranco;14204;Río Bueno;33.363;16.232;17.131;94,8;17,5%
+15;Arica y Parinacota;151;Arica;15101;Arica;241.653;118.844;122.809;96,8;12,7%
+15;Arica y Parinacota;151;Arica;15102;Camarones;861;430;431;99,8;26,5%
+15;Arica y Parinacota;152;Parinacota;15201;Putre;1.547;846;701;120,7;16,5%
+15;Arica y Parinacota;152;Parinacota;15202;General Lagos;508;261;247;105,7;22,8%
+16;Ñuble;161;Diguillín;16101;Chillán;190.382;89.482;100.900;88,7;15,1%
+16;Ñuble;161;Diguillín;16102;Bulnes;23.863;11.472;12.391;92,6;17,2%
+16;Ñuble;161;Diguillín;16103;Chillán Viejo;32.688;15.486;17.202;90,0;12,6%
+16;Ñuble;161;Diguillín;16104;El Carmen;13.186;6.548;6.638;98,6;17,4%
+16;Ñuble;161;Diguillín;16105;Pemuco;8.930;4.416;4.514;97,8;16,8%
+16;Ñuble;161;Diguillín;16106;Pinto;12.502;6.120;6.382;95,9;17,9%
+16;Ñuble;161;Diguillín;16107;Quillón;19.165;9.375;9.790;95,8;21,1%
+16;Ñuble;161;Diguillín;16108;San Ignacio;17.405;8.556;8.849;96,7;18,2%
+16;Ñuble;161;Diguillín;16109;Yungay;18.680;9.232;9.448;97,7;18,0%
+16;Ñuble;162;Itata;16201;Quirihue;11.746;5.685;6.061;93,8;19,0%
+16;Ñuble;162;Itata;16202;Cobquecura;5.495;2.693;2.802;96,1;23,5%
+16;Ñuble;162;Itata;16203;Coelemu;15.895;7.760;8.135;95,4;18,6%
+16;Ñuble;162;Itata;16204;Ninhue;5.763;2.831;2.932;96,6;21,3%
+16;Ñuble;162;Itata;16205;Portezuelo;5.203;2.588;2.615;99,0;21,6%
+16;Ñuble;162;Itata;16206;Ránquil;6.508;3.197;3.311;96,6;22,8%
+16;Ñuble;162;Itata;16207;Trehuaco;6.124;3.069;3.055;100,5;19,1%
+16;Ñuble;163;Punilla;16301;San Carlos;55.847;26.745;29.102;91,9;17,0%
+16;Ñuble;163;Punilla;16302;Coihueco;29.766;14.681;15.085;97,3;14,2%
+16;Ñuble;163;Punilla;16303;Ñiquén;12.797;6.416;6.381;100,5;21,7%
+16;Ñuble;163;Punilla;16304;San Fabián;5.245;2.569;2.676;96,0;18,3%
+16;Ñuble;163;Punilla;16305;San Nicolás;15.099;7.516;7.583;99,1;17,1%
