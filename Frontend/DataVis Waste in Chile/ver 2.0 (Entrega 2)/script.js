@@ -105,7 +105,7 @@ function iniciarMapa() {
       document.getElementById('top5-comunas').style.display = 'none';
       document.getElementById('grafico-comunas').style.display = 'block';
       obtenerInfoComunas(region);
-      actualizarBarra(residuo, 3, 0, 300);
+      actualizarCajaInfo(region, residuo)
     });
 
     graphDiv.on('plotly_unhover', function() {
@@ -114,7 +114,7 @@ function iniciarMapa() {
       document.getElementById('grafico-comunas').style.display = 'none';
       // Limpia el gráfico de comunas
       Plotly.purge('grafico-comunas');
-      document.getElementById("barra").style.visibility = "hidden";
+      document.getElementById("info_box").style.visibility = "hidden";
     });
 
     const sound = new Tone.Player("music/sound.mp3").toDestination();
@@ -179,10 +179,13 @@ function iniciarMapa() {
     }, { displayModeBar: false });
   }
   
+  function actualizarCajaInfo(region, residuo){
+    document.getElementById("info_box").style.visibility = "visible";
+    document.getElementById("titulo_region").textContent = `Región ${region}`;
+    actualizarBarra(residuo, 3, 0, 300);
+  }
 
   function actualizarBarra(valor, maximo, minimo, anchoTotal) {
-    
-    document.getElementById("barra").style.visibility = "visible";
     
     // Limitar el valor dentro del rango
     const clamped = Math.max(minimo, Math.min(maximo, valor));
